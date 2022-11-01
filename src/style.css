@@ -281,6 +281,7 @@ footer div {
 #table {
 	display: grid;
 	overflow-x: auto;
+	min-height: 80vh;
 }
 
 .t-head {
