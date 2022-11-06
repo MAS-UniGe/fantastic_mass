@@ -2,7 +2,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "Python Intelligent Agent Framework (Piaf)",
-        "description": "Fully written in modern Python\n",
+        "description": "Fully written in modern Python, FIPA-compliant\n",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "Uses asynchronous programming behind the woods to power agents",
@@ -82,7 +82,7 @@
         "extensionDependecies": "SUMO",
         "extensionTesting": "Yes",
         "extensionTestingResources": "",
-        "extensionSoftwareEngineeringApproach": "I follow the OpenAI Gym API: <a href=\"https://www.gymlibrary.ml/\">https://www.gymlibrary.ml/</a>",  
+        "extensionSoftwareEngineeringApproach": "I follow the OpenAI Gym API: https://www.gymlibrary.ml/",  
         "extensionPrimaryPaper": "SUMO-RL provides a simple interface to instantiate Reinforcement Learning environments with SUMO for Traffic Signal Control. Goals of this repository:  1) Provide a simple interface to work with Reinforcement Learning for Traffic Signal Control using SUMO 2) Support Multiagent RL 3) Compatibility with gym.Env and popular RL libraries such as stable-baselines3 and RLlib 4) Easy customisation: state and reward definitions are easily modifiable",
         "extensionSecondaryPaper": "",
         "comments": ""
@@ -149,13 +149,13 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "Model-Checking Agent Programming Languages (MCAPL) Framework",
-        "description": "verification",
+        "description": "Verification Framework including several programming languages, most notably Gwendolen",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
-            "beliefs-desires-intentions",
-            "model-checking",
-            "agent programming language",
-            "autonomous systems"
+            "Beliefs-desires-intentions",
+            "Model-checking",
+            "Agent programming language",
+            "Autonomous systems"
         ],
         "frameworkURL": "https://autonomy-and-verification.github.io/tools/mcapl",
         "frameworkCommunityAvailabilty": "Yes",
@@ -164,7 +164,7 @@
         "frameworkLicense": "LGPL",
         "frameworkListOfBugs": "No",
         "frameworkRealApplication": "People sometimes contact me, but I don't know if anyone is using it currently (apart from my group)",
-        "frameworkDocumentation": "",
+        "frameworkDocumentation": "Manual and tutorials available in the doc directory of the distribution",
         "frameworkTechnicalAssistance": "louise.dennis@manchester.ac.uk",
         "frameworkDependencies": "JavaPathfinder, Junit, ANTLR, EIS, JPL",
         "frameworkTesting": "Yes",
@@ -178,13 +178,13 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "STV: StraTegic Verifier",
-        "description": "formal verification",
+        "description": "Formal verification",
         "projectType": "Verifier for the MAS systems.",
         "keyPhrases": [
-            "alternating-time temporal logic verification",
-            "incomplete information",
-            "partial-order reductions",
-            "assume-guarantee verification"
+            "Alternating-time temporal logic verification",
+            "Incomplete information",
+            "Partial-order reductions",
+            "Assume-guarantee verification"
         ],
         "frameworkURL": "http://stv.cs-htiew.com/",
         "frameworkCommunityAvailabilty": "Yes",
@@ -298,8 +298,8 @@
         "description": "reinforcement learning",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
-            "traffic control",
-            "agent-based simulation",
+            "Traffic control",
+            "Agent-based simulation",
             "",
             ""
         ],
@@ -325,7 +325,7 @@
     },
     {
         "frameworkMasExtension": 0,
-        "projectName": "bspl",
+        "projectName": "BSPL",
         "description": "Interaction protocol adapter",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
@@ -537,9 +537,9 @@
         "description": "python",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
-            "agents",
-            "reactive agents",
-            "multiagent system",
+            "Agents",
+            "Reactive agents",
+            "Multiagent system",
             ""
         ],
         "frameworkURL": "https://github.com/grei-ufc/pade",
@@ -624,8 +624,8 @@
         "description": "matching",
         "projectType": "It is a platform for everyday decision making as well as for education and learning of matching algorithms.",
         "keyPhrases": [
-            "resource allocation",
-            "fairness",
+            "Resource allocation",
+            "Fairness",
             "",
             ""
         ],
@@ -713,7 +713,7 @@
         "description": "Development framework for MAS",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
-            "considers agent, communication, environment, and organisation dimensions",
+            "Considers agent, communication, environment, and organisation dimensions",
             "Jason, Cartago, Moise",
             "",
             ""
