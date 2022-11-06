@@ -82,7 +82,7 @@
         "extensionDependecies": "SUMO",
         "extensionTesting": "Yes",
         "extensionTestingResources": "",
-        "extensionSoftwareEngineeringApproach": "I follow the OpenAI Gym API: https://www.gymlibrary.ml/",
+        "extensionSoftwareEngineeringApproach": "I follow the OpenAI Gym API: <a href=\"https://www.gymlibrary.ml/\"https://www.gymlibrary.ml/</a>",  
         "extensionPrimaryPaper": "SUMO-RL provides a simple interface to instantiate Reinforcement Learning environments with SUMO for Traffic Signal Control. Goals of this repository:  1) Provide a simple interface to work with Reinforcement Learning for Traffic Signal Control using SUMO 2) Support Multiagent RL 3) Compatibility with gym.Env and popular RL libraries such as stable-baselines3 and RLlib 4) Easy customisation: state and reward definitions are easily modifiable",
         "extensionSecondaryPaper": "",
         "comments": ""
