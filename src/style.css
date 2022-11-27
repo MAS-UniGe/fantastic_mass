@@ -10,6 +10,14 @@
 	--dark2-color: rgba(50, 70, 79, 0.4);
 	--dark3-color: rgb(56, 56, 56, 0.4);
 	--bkg-color: rgb(33, 33, 33);
+
+	color-scheme: light dark;
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+
 }
 
 @font-face {
@@ -25,7 +33,7 @@
 
 body {
 	background-color: var(--bkg-color);
-	color: white;
+	/* color: white; */
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -493,5 +501,30 @@ a:hover {
 
 	#table {
 		display: none;
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--main-color: rgb(16, 16, 16);
+		--light1-color: rgb(209, 150, 23);
+		--light2-color: rgba(218, 218, 218, 0.4);
+		--light3-color: rgb(155, 155, 155);
+		--light4-color: rgb(96, 99, 100);
+		--gray1: rgba(167, 167, 167, 0.5);
+		--gray2: rgba(160, 160, 160, 0.3);
+		--dark1-color: rgba(84, 93, 99, 0.4);
+		--dark2-color: rgba(165, 165, 165, 0.4);
+		--dark3-color: rgba(203, 203, 203, 0.4);
+		--bkg-color: rgb(238, 238, 238);
+	}
+
+	main {
+		background-image: url("../assets/logo\ light.svg");
+	}
+
+	a:hover {
+		filter: brightness(0.7);
+		cursor: pointer;
 	}
 }
