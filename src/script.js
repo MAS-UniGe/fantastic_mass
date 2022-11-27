@@ -52,7 +52,7 @@ function filter(f) {
 	f = f.toLowerCase();
 	if (
 		f.startsWith("name:") ||
-		f.startsWith("community-availability:") ||
+		f.startsWith("community-availabilty:") ||
 		f.startsWith("license:") ||
 		f.startsWith("real-application:") ||
 		f.startsWith("list-of-bugs:") 
@@ -72,7 +72,7 @@ function filter(f) {
 		return;
 	} else if (attribute == "name") {
 		column = document.getElementsByClassName("t-value t-projectName");
-	} else if (attribute == "community-availability") {
+	} else if (attribute == "community-availabilty") {
 		if (type == 0)
 			column = document.getElementsByClassName("t-value t-frameworkCommunityAvailability");
 		else if (type == 1)
@@ -108,14 +108,6 @@ function filter(f) {
 		else rows[i].setAttribute("style", "")
 	}
 
-}
-
-function isLink(s) {
-	return /^(https?:\/\/)?([\w-]+?\.?)([a-zA-Z-_0-9]+\.)([a-zA-Z-_]+)(\/\S*)?$/.test(s)
-}
-
-function isEmail(s) {
-	return /^[\w\.]+@([\w-]+\.)+[\w-]{2,4}$/.test(s);
 }
 
 window.onload = async () => {
@@ -203,19 +195,31 @@ window.onload = async () => {
 		let row = 0;
 		t = await t.json();
 		let isVoid = true;
+		const link = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)/;
+		const email = /[\w\.]+@([\w-]+\.)+[\w-]{2,4}/;
+		t.sort(function (a, b) {
+			return a.projectName.localeCompare(b.projectName);
+		});
 		t.forEach(e => {
 			if (e["frameworkMasExtension"] == type) {
 				isVoid = false;
 				delete e["frameworkMasExtension"];
 				table.innerHTML += "<div class='t-row' id='t-row-" + row + "'></div>";
 				let r = document.getElementById("t-row-" + row++);
+				let tmpStr = "";
 				for (let k in e) {
-					if (typeof(e[k]) == "string" && isLink(e[k]) && k != "projectName")
-						r.innerHTML += "<div class='t-value t-" + k + "' title='" + e[k] + "'><span translate='no' class='material-symbols-outlined'>link</span><a href='" + e[k] + "'>" + e[k] + "</a></div>";
-					else if(typeof(e[k]) == "string" && isEmail(e[k]) && k != "projectName")
-						r.innerHTML += "<div class='t-value t-" + k + "' title='" + e[k] + "'><span translate='no' class='material-symbols-outlined'>mail</span><a href='mailto:" + e[k] + "'>" + e[k] + "</a></div>";
-					else
-						r.innerHTML += "<div class='t-value t-" + k + "' title='" + e[k] + "'>" + e[k] + "</div>";
+					tmpStr = e[k];
+					if (typeof(e[k]) == "string") {
+						tmpStr = e[k].split(/(\(|\)| )/g).map(j => {
+							if (link.test(j))
+								return "<a href='" + j + "' title='" + j + "'>" + j + "</a>"
+							else if (email.test(j))
+								return "<a href='mailto:" + j + "' title='" + j + "'>" + j + "</a>"
+							else return j
+						}).join(" ")
+					}
+					
+					r.innerHTML += "<div class='t-value t-" + k + "' title='" + e[k] + "'>" + tmpStr + "</div>";
 				}
 			}
 		});
