@@ -1,4 +1,34 @@
 [
+    
+     {
+        "frameworkMasExtension": 0,
+        "projectName": "RML",
+        "description": "A system agnostic domain specific language for runtime monitoring and verification",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "runtime monitoring language",
+            "verification of MASs",
+            "",
+            ""
+        ],
+        "frameworkURL": "https://rmlatdibris.github.io/",
+        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkPreviousVersionsAvailability": "Yes",
+        "frameworkPreviousVersionsURL": "https://github.com/AngeloFerrando/website/tree/master/assets/rivertools; actually, RIVERtools (https://angeloferrando.github.io/website/assets/template.pdf) is a precursor of RML from a conceptual point of view, but it does not represent a previous version",
+        "frameworkLicense": "Not specified, we will add it soon",
+        "frameworkListOfBugs": "No",
+        "frameworkRealApplication": "No: we used the framework with colleagues from PUCRS in Brazil, but it was a joint activity",
+        "frameworkDocumentation": "",
+        "frameworkTechnicalAssistance": "runtime-monitoring-language@googlegroups.com or the developers: davide.ancona@unige.it; angelo.ferrando@unige.it; viviana.mascardi@unige.it",
+        "frameworkDependencies": "SWI-Prolog, https://www.swi-prolog.org/;  ANTLR, https://www.antlr.org/; Java, https://www.java.com/en/; Kotlin, https://kotlinlang.org/; node.js, ; Jalangi 2, https://github.com/Samsung/jalangi2/",
+        "frameworkTesting": "Yes",
+        "frameworkTestingResources": "",
+        "frameworkSoftwareEngineeringApproach": "We did not follow any SE approach in particular",
+        "frameworkPrimaryPaper": "Ancona D., Franceschini L., Ferrando A., Mascardi V. (2021) RML: Theory and practice of a domain specific language for runtime verification. Science of Computer Programming, Volume 205, 102610, ISSN 0167-6423, https://www.sciencedirect.com/science/article/pii/S0167642321000034",
+        "frameworkSecondaryPaper": "D\u00e9bora C. Engelmann, Angelo Ferrando, Alison R. Panisson, Davide Ancona, Rafael H. Bordini, Viviana Mascardi: RV4JaCa - Runtime Verification for Multi-Agent Systems. AREA@IJCAI-ECAI 2022: 23-36, https://arxiv.org/pdf/2207.09708v1.pdf",
+        "frameworkMasBuiltUsingFramework": "You might have a look at the RML examples here: https://rmlatdibris.github.io/examples.html",
+        "comments": ""
+    },
     {
         "frameworkMasExtension": 0,
         "projectName": "Python Intelligent Agent Framework (Piaf)",
