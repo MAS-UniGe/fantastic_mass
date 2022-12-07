@@ -203,7 +203,7 @@
         "frameworkPrimaryPaper": "Louise A. Dennis. The MCAPL Framework including the Agent Infrastructure Layer and Agent Java Pathfinder. Journal of Open Source Software, 3(24), 617, 2018. DOI: 10.31105/joss.00617",
         "frameworkSecondaryPaper": "Louise A. Dennis, Michael Fisher, Nicholas K. Lincoln, Alexei Lisitsa, Sandor M. Veres. Practical Verification of Decision-Making in Agent-Based Autonomous Systems . Automated Software Engineering 23(3), 305-359, 2016. DOI: 10.1007/s10515-014-0168-9.",
         "frameworkMasBuiltUsingFramework": "Lots of examples in the examples folder of the repository",
-        "comments": ""
+        "comments": "You may have a look at the related ROS-A project under Extensions"
     },
     {
         "frameworkMasExtension": 0,
@@ -291,7 +291,7 @@
         "extensionSoftwareEngineeringApproach": "",
         "extensionPrimaryPaper": "https://link.springer.com/chapter/10.1007/978-3-030-66412-1_13",
         "extensionSecondaryPaper": "",
-        "comments": ""
+        "comments": "You may have a look at the related MCAPL project under Frameworks"
     },
     {
         "frameworkMasExtension": 0,
