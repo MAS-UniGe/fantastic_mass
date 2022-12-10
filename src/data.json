@@ -1,5 +1,34 @@
 [
-    
+     {
+        "frameworkMasExtension": 2,
+        "projectName": "MAPF",
+        "description": "multi-agent path finding",
+        "projectType": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems",
+        "keyPhrases": [
+            "collision-free paths",
+            "multi-robot systems",
+            "",
+            ""
+        ],
+        "extensionURL": "http://mapf.info/",
+        "extensionCommunityAvailability": "Yes",
+        "extensionPreviousVersionsAvailability": "No",
+        "extensionPreviousVersionsURL": "",
+        "extensionLicense": "depends on the software",
+        "extensionListOfBugs": "No",
+        "extensionOfFramework": "N/A",
+        "extensionLinkToExtendedFramework": "N/A",
+        "extensionRealApplication": "N/A",
+        "extensionDocumentation": "Tutorials;Videos;Courses;",
+        "extensionTechnicalAssistance": "No",
+        "extensionDependecies": "N/A",
+        "extensionTesting": "Yes",
+        "extensionTestingResources": "",
+        "extensionSoftwareEngineeringApproach": "N/A",
+        "extensionPrimaryPaper": "http://mapf.info/index.php/Main/Publications",
+        "extensionSecondaryPaper": "",
+        "comments": ""
+    },
      {
         "frameworkMasExtension": 0,
         "projectName": "RML",
@@ -15,7 +44,7 @@
         "frameworkCommunityAvailabilty": "Yes",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "https://github.com/AngeloFerrando/website/tree/master/assets/rivertools; actually, RIVERtools (https://angeloferrando.github.io/website/assets/template.pdf) is a precursor of RML from a conceptual point of view, but it does not represent a previous version",
-        "frameworkLicense": "Not specified, we will add it soon",
+        "frameworkLicense": "MIT License",
         "frameworkListOfBugs": "No",
         "frameworkRealApplication": "No: we used the framework with colleagues from PUCRS in Brazil, but it was a joint activity",
         "frameworkDocumentation": "",
