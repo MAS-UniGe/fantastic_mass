@@ -2,7 +2,7 @@
      {
         "frameworkMasExtension": 2,
         "projectName": "MAPF",
-        "description": "multi-agent path finding",
+        "description": "Multi-agent path finding",
         "projectType": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems",
         "keyPhrases": [
             "collision-free paths",
