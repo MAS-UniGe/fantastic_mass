@@ -28,7 +28,7 @@
         "frameworkMasBuiltUsingFramework": "You might have a look at the RML examples here: https://rmlatdibris.github.io/examples.html",
         "comments": ""
     },
-      {
+    {
         "frameworkMasExtension": 0,
         "projectName": "MAPF",
         "description": "Multi-agent path finding",
