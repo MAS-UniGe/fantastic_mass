@@ -1,4 +1,33 @@
-[
+[ 
+     {
+        "frameworkMasExtension": 0,
+        "projectName": "JS-son",
+        "description": "Multi-agent path finding",
+        "projectType": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems",
+        "keyPhrases": [
+            "JavaScript-based agents",
+            "Belief-Desire-Intention",
+            "Agents on the Web",
+            ""
+        ],
+        "frameworkURL": "https://github.com/TimKam/JS-son",
+        "frameworkCommunityAvailability": "Yes",
+        "frameworkPreviousVersionsAvailability": "Yes",
+        "frameworkPreviousVersionsURL": "https://github.com/TimKam/JS-son",
+        "frameworkLicense": "BSD 2-Clause "Simplified" License",
+        "frameworkListOfBugs": "Yes",
+        "frameworkRealApplication": "Used in a an HCI study that was published in AIJ: https://www.sciencedirect.com/science/article/abs/pii/S0004370221001247",
+        "frameworkDocumentation": "Manuals;Tutorials;",
+        "frameworkTechnicalAssistance": "tkampik@cs.umu.se",
+        "frameworkDependecies": "No 3rd-party dependencies are required",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",
+        "frameworkTestingResources": "https://github.com/TimKam/JS-son/tree/master/spec",
+        "frameworkSoftwareEngineeringApproach": "N/A",
+        "frameworkPrimaryPaper": "https://link.springer.com/chapter/10.1007/978-3-030-51417-4_11",
+        "frameworkSecondaryPaper": "",
+        "frameworkMasBuiltUsingFramework":"There are some small MAS openly available, e.g. in the examples",
+        "comments": ""
+     },
      {
         "frameworkMasExtension": 0,
         "projectName": "RML",
