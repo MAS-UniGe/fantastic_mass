@@ -2,8 +2,8 @@
      {
         "frameworkMasExtension": 0,
         "projectName": "JS-son",
-        "description": "Multi-agent path finding",
-        "projectType": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems",
+        "description": "A Lean, Extensible JavaScript Agent Programming Library",
+        "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "JavaScript-based agents",
             "Belief-Desire-Intention",
