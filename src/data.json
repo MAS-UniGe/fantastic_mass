@@ -783,7 +783,7 @@
         "frameworkRealApplication": "No",
         "frameworkDocumentation": "",
         "frameworkTechnicalAssistance": "GitHub issues on the repository",
-        "frameworkDependencies": "Yes",
+        "frameworkDependencies": "Self-contained",
         "frameworkTesting": "Yes",
         "frameworkTestingResources": "",
         "frameworkSoftwareEngineeringApproach": "Partially",
