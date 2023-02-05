@@ -1,5 +1,35 @@
 [
      {
+        "frameworkMasExtension": 2,
+        "projectName": "LEARN: a p2p layer for JADE MASs",
+        "description": "LEARN enables the execution of collaborative scenarios in a fully decentralized way by combining the agent-based paradigm, well suited to design collaborative and autonomous nodes, and the peer-to-peer paradigm, well suited to design distributed and dynamic network infrastructures.",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "p2p",
+            "JADE",
+            "multiagent system",
+            "peer to peer"
+        ],
+        "extensionURL": "https://gitlab.com/daniela.briola/p2p-layer-for-jade",
+        "extensionCommunityAvailability": "Yes",
+        "extensionPreviousVersionsAvailability": "No",
+        "extensionPreviousVersionsURL": "",
+        "extensionLicense": "Creative Commons Attribution-NonCommercial 4.0 Licence",
+        "extensionListOfBugs": "No",
+        "extensionOfFramework": "JADE",
+        "extensionLinkToExtendedFramework": "https://jade.tilab.com/, version 4.4",
+        "extensionRealApplication": "No",
+        "extensionDocumentation": "Manuals;",
+        "extensionTechnicalAssistance": "daniela.briola@unimib.it",
+        "extensionDependecies": "Log4J and Opencvs. All these jars are included in the zipfile",
+        "extensionTesting": "Yes, I performed some testing but no testing resources exist",
+        "extensionTestingResources": "",
+        "extensionSoftwareEngineeringApproach": "",
+        "extensionPrimaryPaper": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.2657",
+        "extensionSecondaryPaper": "",
+        "comments": ""
+    },
+     {
         "frameworkMasExtension": 0,
         "projectName": "JS-son",
         "description": "A Lean, Extensible JavaScript Agent Programming Library",
