@@ -40,7 +40,7 @@
             "peer to peer"
         ],
         "extensionURL": "https://gitlab.com/daniela.briola/p2p-layer-for-jade",
-        "extensionCommunityAvailability": "Yes",
+        "extensionCommunityAvailability": "Yes, the source code is available",
         "extensionPreviousVersionsAvailability": "No",
         "extensionPreviousVersionsURL": "",
         "extensionLicense": "Creative Commons Attribution-NonCommercial 4.0 Licence",
@@ -70,7 +70,7 @@
             ""
         ],
         "frameworkURL": "https://github.com/TimKam/JS-son",
-        "frameworkCommunityAvailability": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "https://github.com/TimKam/JS-son",
         "frameworkLicense": "BSD 2-Clause 'Simplified' License",
@@ -99,7 +99,7 @@
             ""
         ],
         "frameworkURL": "https://rmlatdibris.github.io/",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "https://github.com/AngeloFerrando/website/tree/master/assets/rivertools; actually, RIVERtools (https://angeloferrando.github.io/website/assets/template.pdf) is a precursor of RML from a conceptual point of view, but it does not represent a previous version",
         "frameworkLicense": "MIT License",
@@ -128,7 +128,7 @@
             ""
         ],
         "frameworkURL": "http://mapf.info/",
-        "frameworkCommunityAvailability": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "No",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "depends on the software",
@@ -157,7 +157,7 @@
             ""
         ],
         "frameworkURL": "https://gitlab.com/ornythorinque/piaf",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "MIT",
@@ -186,7 +186,7 @@
             ""
         ],
         "frameworkURL": "https://gitlab.univ-lille.fr/maxime.morge/smastaplus",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "https://github.com/cristal-smac/mas4data",
         "frameworkLicense": "GNU GPL3",
@@ -215,7 +215,7 @@
             ""
         ],
         "extensionURL": "https://github.com/LucasAlegre/sumo-rl",
-        "extensionCommunityAvailability": "Yes",
+        "extensionCommunityAvailability": "Yes, the source code is available",
         "extensionPreviousVersionsAvailability": "Yes",
         "extensionPreviousVersionsURL": "",
         "extensionLicense": "MIT",
@@ -245,7 +245,7 @@
             ""
         ],
         "frameworkURL": "http://www.astralanguage.com",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "MIT License",
@@ -274,7 +274,7 @@
             ""
         ],
         "extensionURL": "https://gitlab.com/mams-ucd/mams-cartago",
-        "extensionCommunityAvailability": "Yes",
+        "extensionCommunityAvailability": "Yes, the source code is available",
         "extensionPreviousVersionsAvailability": "Yes",
         "extensionPreviousVersionsURL": "",
         "extensionLicense": "MIT License",
@@ -304,7 +304,7 @@
             "Autonomous systems"
         ],
         "frameworkURL": "https://autonomy-and-verification.github.io/tools/mcapl",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "https://sourceforge.net/projects/mcapl/",
         "frameworkLicense": "LGPL",
@@ -333,7 +333,7 @@
             "Assume-guarantee verification"
         ],
         "frameworkURL": "http://stv.cs-htiew.com/",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "https://github.com/blackbat13/stv",
         "frameworkLicense": "MIT",
@@ -362,7 +362,7 @@
             "Synthesis"
         ],
         "frameworkURL": "https://github.com/eve-mas/eve-parity",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "No",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "GPL-3.0 license",
@@ -391,7 +391,7 @@
             ""
         ],
         "extensionURL": "Jason: https://github.com/rafaelcaue/jason-rosbridge  Gwendolen: https://github.com/autonomy-and-verification-uol/gwendolen-rosbridge",
-        "extensionCommunityAvailability": "Yes",
+        "extensionCommunityAvailability": "Yes, the source code is available",
         "extensionPreviousVersionsAvailability": "Yes",
         "extensionPreviousVersionsURL": "",
         "extensionLicense": "GNU GENERAL PUBLIC LICENSE",
@@ -421,7 +421,7 @@
             ""
         ],
         "frameworkURL": "https://terna.github.io/SLAPP/",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "https://terna.github.io/SLAPP/",
         "frameworkLicense": "Creative Commons",
@@ -450,7 +450,7 @@
             ""
         ],
         "masURL": "https://github.com/AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control",
-        "masCommunityAvailabilty": "Yes",
+        "masCommunityAvailability": "Yes, the source code is available",
         "masPreviousVersionsAvailability": "Yes",
         "masPreviousVersionsURL": "",
         "masLicense": "MIT License",
@@ -467,7 +467,7 @@
         "masSoftwareEngineeringApproach": "No",
         "masPrimaryPaper": "http://ceur-ws.org/Vol-2404/paper07.pdf",
         "masSecondaryPaper": "",
-        "comments": "The main author of the work is Andrea Vidali, which developed it during his master thesis."
+        "comments": "The main author of the work is Andrea Vidali, who developed it during his master thesis."
     },
     {
         "frameworkMasExtension": 0,
@@ -481,7 +481,7 @@
             ""
         ],
         "frameworkURL": "https://gitlab.com/masr/bspl",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "MIT",
@@ -510,7 +510,7 @@
             ""
         ],
         "frameworkURL": "https://gitlab.com/masr/deserv",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "MIT",
@@ -539,7 +539,7 @@
             ""
         ],
         "frameworkURL": "https://gitlab.com/masr/hercule",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "MIT",
@@ -568,7 +568,7 @@
             ""
         ],
         "masURL": "https://github.com/lcastropg/maps_holo",
-        "masCommunityAvailabilty": "Yes",
+        "masCommunityAvailability": "Yes, the source code is available",
         "masPreviousVersionsAvailability": "Yes",
         "masPreviousVersionsURL": "https://github.com/MAPS-UTFPR/MAPS",
         "masLicense": "None",
@@ -599,7 +599,7 @@
             ""
         ],
         "extensionURL": "http://di.unito.it/2comm",
-        "extensionCommunityAvailability": "Yes",
+        "extensionCommunityAvailability": "Yes, the source code is available",
         "extensionPreviousVersionsAvailability": "No",
         "extensionPreviousVersionsURL": "",
         "extensionLicense": "Open source",
@@ -629,7 +629,7 @@
             "JaCaMo\u2019s normative system is leveraged to enforce the accountability mechanism by relying on dedicated (accounting) goals and norms."
         ],
         "extensionURL": "http://di.unito.it/moiseaccountability",
-        "extensionCommunityAvailability": "Yes",
+        "extensionCommunityAvailability": "Yes, the source code is available",
         "extensionPreviousVersionsAvailability": "No",
         "extensionPreviousVersionsURL": "",
         "extensionLicense": "Open source",
@@ -659,7 +659,7 @@
             ""
         ],
         "extensionURL": "http://di.unito.it/moiseexceptions",
-        "extensionCommunityAvailability": "Yes",
+        "extensionCommunityAvailability": "Yes, the source code is available",
         "extensionPreviousVersionsAvailability": "Yes",
         "extensionPreviousVersionsURL": "",
         "extensionLicense": "Open source",
@@ -689,7 +689,7 @@
             ""
         ],
         "frameworkURL": "https://github.com/grei-ufc/pade",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "MIT",
@@ -718,7 +718,7 @@
             ""
         ],
         "frameworkURL": "https://github.com/mostafamohajeri/agentscript",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "Apache-2.0",
@@ -747,7 +747,7 @@
             "DALI agents are able to learn, either via \u201cdeep\u201d learning or by learn- ing from other trusted agents. This in order to enlarge the set of perceptions they can recognize, elaborate on and react to, and in order to expand their range of expertise."
         ],
         "frameworkURL": "https://github.com/AAAI-DISIM-UnivAQ/DALI",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "Apache License",
@@ -776,7 +776,7 @@
             ""
         ],
         "frameworkURL": "http://www.matchu.ai/",
-        "frameworkCommunityAvailabilty": "Not yet, but we plan to make it available soon.",
+        "frameworkCommunityAvailability": "Not yet, but we plan to make it available soon.",
         "frameworkPreviousVersionsAvailability": "No",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "NA",
@@ -805,7 +805,7 @@
             ""
         ],
         "frameworkURL": "https://jade.tilab.com/download/jade/",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "GNU LESSER GENERAL PUBLIC LICENSE",
@@ -834,7 +834,7 @@
             ""
         ],
         "frameworkURL": "https://github.com/autonomy-and-verification-uol/StreamB",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "GNU LESSER GENERAL PUBLIC LICENSE",
@@ -863,7 +863,7 @@
             ""
         ],
         "masURL": "https://github.com/EdDurfee/adaptSchedule",
-        "masCommunityAvailabilty": "Yes",
+        "masCommunityAvailability": "Yes, the source code is available",
         "masPreviousVersionsAvailability": "No",
         "masPreviousVersionsURL": "",
         "masLicense": "open source",
@@ -894,7 +894,7 @@
             ""
         ],
         "frameworkURL": "http://jacamo.sourceforge.net",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "https://github.com/jacamo-lang/jacamo",
         "frameworkLicense": "GNU LESSER GENERAL PUBLIC LICENSE",
@@ -923,7 +923,7 @@
             ""
         ],
         "frameworkURL": "https://github.com/jcburguillo/CellNet",
-        "frameworkCommunityAvailabilty": "Yes",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "Yes",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "GNU LESSER GENERAL PUBLIC LICENSE",
