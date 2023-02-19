@@ -756,7 +756,7 @@
         "frameworkListOfBugs": "Yes",
         "frameworkRealApplication": "TNO Netherlands, Asser Institute: using for system modelling (Academic level)",
         "frameworkDocumentation": "",
-        "frameworkTechnicalAssistance": "Not really, but can contact myslef",
+        "frameworkTechnicalAssistance": "m.mohajeriparizi@uva.nl",
         "frameworkDependencies": "Java 11+, sbt, Scala",
         "frameworkTesting": "Yes",
         "frameworkTestingResources": "",
