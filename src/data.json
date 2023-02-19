@@ -1,4 +1,33 @@
-[
+[       
+     {
+        "frameworkMasExtension": 0,
+        "projectName": "Jadescript",
+        "description": "An imperative, event-driven, agent-oriented programming language for agents and multi-agent systems based on JADE",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "A programming language for agents and multi-agent systems based on JADE",
+            "Imperative, event-driven, agent-oriented programming",
+            "Mainstream-oriented language and tools for agents and multi-agent systems",
+            ""
+        ],
+        "frameworkURL": "https://github.com/aiagents/jadescript",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
+        "frameworkPreviousVersionsAvailability": "Yes, available in the same repo of the current version",
+        "frameworkPreviousVersionsURL": "",
+        "frameworkLicense": "LGPL-3.0",
+        "frameworkListOfBugs": "Yes",
+        "frameworkRealApplication": "Not aware of any user",
+        "frameworkDocumentation": "Manuals;",
+        "frameworkTechnicalAssistance": "The support is provided via Github messaging and bug tracking",
+        "frameworkDependecies": "Recent Eclipse",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
+        "frameworkTestingResources": "",
+        "frameworkSoftwareEngineeringApproach": "Informal agile methodology",
+        "frameworkPrimaryPaper": "Federico Bergenti, Giovanni Caire, Stefania Monica, Agostino Poggi. The first twenty years of agent-based software development with JADE. Autonomous Agents and Multi-Agent Systems, 34(2):36, 2020",
+        "frameworkSecondaryPaper": "Federico Bergenti, Stefania Monica, Giuseppe Petrosino. A scripting language for practical agent-oriented programming. In Proceedings of the 8th ACM SIGPLAN International Workshop on Programming Based on Actors, Agents, and Decentralized Control (AGERE 2018), pp. 62--71, ACM, 2018",
+        "frameworkMasBuiltUsingFramework":"",
+        "comments": ""
+     },
      {
         "frameworkMasExtension": 2,
         "projectName": "LEARN: a p2p layer for JADE MASs",
