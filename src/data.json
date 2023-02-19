@@ -187,7 +187,7 @@
         ],
         "frameworkURL": "https://gitlab.univ-lille.fr/maxime.morge/smastaplus",
         "frameworkCommunityAvailability": "Yes, the source code is available",
-        "frameworkPreviousVersionsAvailability": "Yes, in another repository",
+        "frameworkPreviousVersionsAvailability": "Yes, in another repo",
         "frameworkPreviousVersionsURL": "https://github.com/cristal-smac/mas4data",
         "frameworkLicense": "GNU GPL3",
         "frameworkListOfBugs": "No",
