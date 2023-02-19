@@ -1,4 +1,35 @@
 [       
+      {
+        "frameworkMasExtension": 1,
+        "projectName": "Affective Agents",
+        "description": "Pedestrian Simulation with Affective State Modeling",
+        "projectType": "Agent-based simulation",
+        "keyPhrases": [
+            "Pedestrian Simulation",
+            "Affective State Modeling",
+            "Multiagent System",
+            "Human interaction simulation"
+        ],
+        "masURL": "https://gitlab.com/daniela.briola/affectiveagents",
+        "masCommunityAvailability": "Yes, the source code is available",
+        "masPreviousVersionsAvailability": "No",
+        "masPreviousVersionsURL": "",
+        "masLicense": "Creative Commons Attribution-NonCommercial 4.0 Licence",
+        "masListOfBugs": "No",
+        "masDevelopedWithFramework": "NetLogo",
+        "masLinkToFramework": "https://ccl.northwestern.edu/netlogo/, version 6.2.0",
+        "masFrameworkVersion": "",
+        "masRealApplication": "This is a new project, by now it is only used for our research",
+        "masDocumentation": "Manuals;",
+        "masTechnicalAssistance": "daniela.briola@unimib.it",
+        "masDependencies": "no need, it is self contained",
+        "masTesting": "Yes, we performed some testing but no testing resources exist",
+        "masTestingResources": "",
+        "masSoftwareEngineeringApproach": "No",
+        "masPrimaryPaper": "Marta Giltri, Stefania Bandini, Francesca Gasparini, Daniela Briola: Furthering an Agent-Based Modeling Approach Introducing Affective States Based on Real Data. ATT@IJCAI 2022: pp 124-136",
+        "masSecondaryPaper": "Stefania Bandini, Daniela Briola, Alberto Dennunzio, Francesca Gasparini, Marta Giltri, Giuseppe Vizzari: Integrating the Implications of Distance-Based Affective States in Cellular Automata Pedestrian Simulation. ACRI 2022: pp 259-270",
+        "comments": ""
+    },
      {
         "frameworkMasExtension": 0,
         "projectName": "Jadescript",
