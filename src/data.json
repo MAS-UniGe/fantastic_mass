@@ -2,7 +2,7 @@
       {
         "frameworkMasExtension": 2,
         "projectName": "Rv4JaCa - runtime verification for multi-agent systems",
-        "description": "Rv4JaCa is a Runtime Verification approach for Multi-Agent Systems using the JaCaMo framework.",
+        "description": "Rv4JaCa is a Runtime Verification approach for Multi-Agent Systems using the JaCaMo framework",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Runtime Verification",
@@ -14,7 +14,7 @@
         "extensionCommunityAvailability": "Yes, the source code is available",
         "extensionPreviousVersionsAvailability": "No",
         "extensionPreviousVersionsURL": "",
-        "extensionLicense": "N/A",
+        "extensionLicense": "Open source",
         "extensionListOfBugs": "No",
         "extensionOfFramework": "JaCaMo version 0.9",
         "extensionLinkToExtendedFramework": "https://jacamo.sourceforge.net/",
