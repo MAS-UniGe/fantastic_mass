@@ -1,5 +1,35 @@
 [       
       {
+        "frameworkMasExtension": 2,
+        "projectName": "Rv4JaCa - runtime verification for multi-agent systems",
+        "description": "Rv4JaCa is a Runtime Verification approach for Multi-Agent Systems using the JaCaMo framework.",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "Runtime Verification",
+            "JaCaMo",
+            "Runtime Monitoring Language, RML",
+            ""
+        ],
+        "extensionURL": "https://github.com/DeboraEngelmann/RV4JaCa",
+        "extensionCommunityAvailability": "Yes, the source code is available",
+        "extensionPreviousVersionsAvailability": "No",
+        "extensionPreviousVersionsURL": "",
+        "extensionLicense": "N/A",
+        "extensionListOfBugs": "No",
+        "extensionOfFramework": "JaCaMo version 0.9",
+        "extensionLinkToExtendedFramework": "https://jacamo.sourceforge.net/",
+        "extensionRealApplication": "No",
+        "extensionDocumentation": "No",
+        "extensionTechnicalAssistance": "debora.engelmann@acad.pucrs.br",
+        "extensionDependecies": "Java 11; Gradle 6.8.3; JaCaMo 0.9; RML (https://rmlatdibris.github.io/)",
+        "extensionTesting": "Yes, we performed some testing but no testing resources exist",
+        "extensionTestingResources": "",
+        "extensionSoftwareEngineeringApproach": "",
+        "extensionPrimaryPaper": "Engelmann, D.C., Ferrando, A., Panisson, A.R., Ancona, D., Bordini, R.H., Mascardi, V.: Rv4JaCa - runtime verification for multi-agent systems. In: Cardoso, R.C., Ferrando, A., Papacchini, F., Askarpour, M., Dennis, L.A. (eds.) Proceedings of the Second Workshop on Agents and Robots for reliable Engineered Autonomy, AREA@IJCAI-ECAI 2022, Vienna, Austria, 24th July 2022. EPTCS, vol. 362, pp. 23-36 (2022). https://doi.org/10.4204/EPTCS.362.5",
+        "extensionSecondaryPaper": "",
+        "comments": ""
+    },
+    {
         "frameworkMasExtension": 1,
         "projectName": "Affective Agents",
         "description": "Pedestrian Simulation with Affective State Modeling",
