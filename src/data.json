@@ -970,7 +970,7 @@
         "frameworkSoftwareEngineeringApproach": "AGILE",
         "frameworkPrimaryPaper": "Juan C. Burguillo. Self-organizing Coalitions for Managing Complexity. In Emergence, Complexity and Computationbook series (ECC, volume 29). Editorial Springer Nature, 1st ed. 2018. Available at: https://www.google.com/url?q=https%3A%2F%2Fwww.dpbolvw.net%2Fclick-8725405-12898971%3Furl%3Dhttps%253A%252F%252Fwww.springer.com%252Fgp%252Fbook%252F9783319698960&sa=D&sntz=1&usg=AOvVaw04mS6_Qh99p8cnQxTH0kEi",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework": "yes",
+        "frameworkMasBuiltUsingFramework": "Yes",
         "comments": "The framework includes the simulations described in the book."
     },
       {
@@ -1005,7 +1005,7 @@
       {
         "frameworkMasExtension": 0,
         "projectName": "SARL",
-        "description": "SARL is a general purpose agent oriented programming language that provides specific constructs for multiagent systems and holonic multiagent systems.	It aims at providing the fundamental abstractions for dealing with concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration. The associated runtime environment, named Janus, enables to deploy the agents even on a computer network with a zero-configuration approach. SARL compiler generates Java and Python code that could be directly used or invoked from a Java or Python application. SARL is architecture agnostic. Developers may implement their preferred agent architecture (BDI, reactive, etc...) and interaction mechanism (events, messages, BSPL protocols, etc.)",
+        "description": "SARL is a general purpose agent oriented programming language that provides specific constructs for multiagent systems and holonic multiagent systems.",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration.",
@@ -1025,11 +1025,10 @@
         "frameworkDependecies": "",
         "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
         "frameworkTestingResources": "",
-        "frameworkSoftwareEngineeringApproach": "SARL and Janus are fully implemented using the MDE approach, and the Eclipse Ecore framework.
-Additionally, SARL is a possible implementation of the ASPECS agent-oriented software engineering (www.aspecs.org).",
+        "frameworkSoftwareEngineeringApproach": "SARL and Janus are fully implemented using the MDE approach, and the Eclipse Ecore framework. Additionally, SARL is a possible implementation of the ASPECS agent-oriented software engineering (www.aspecs.org).",
         "frameworkPrimaryPaper": "Rodriguez, S., Gaud, N., & Galland, S. (2014). SARL: a general-purpose agent-oriented programming language. The 2014 IEEE/WIC/ACM International Conference on Intelligent Agent Technology",
         "frameworkSecondaryPaper": "Galland, S., Rodriguez, S., & Gaud, N. (2020). Run-time Environment for the SARL Agent-Programming Language: the Example of the Janus platform. International Journal on Future Generation Computer Systems. https://doi.org/10.1016/j.future.2017.10.020",
-        "frameworkMasBuiltUsingFramework":"Some examples of publically available projects are listed on http://www.sarl.io/community/index.html",
+        "frameworkMasBuiltUsingFramework": "Some examples of publically available projects are listed on http://www.sarl.io/community/index.html",
         "comments": ""
      }
 ]
