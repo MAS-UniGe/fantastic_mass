@@ -504,7 +504,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "BSPL",
-        "description": "Interaction protocol adapter",
+        "description": "Interaction protocol adapter. KEYWORDS: Agent development framework, Verification tool",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Agent development framework",
@@ -527,13 +527,13 @@
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "Bungie: Improving Fault Tolerance via Extensible Application-Level Protocols",
         "frameworkSecondaryPaper": "Mandrake: multiagent systems as a basis for programming fault-tolerant decentralized applications",
-        "frameworkMasBuiltUsingFramework": "no",
+        "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
     },
     {
         "frameworkMasExtension": 0,
         "projectName": "Deserv",
-        "description": "Interaction protocol adapter",
+        "description": "Interaction protocol adapter. KEYWORDS: Agent development framework, AWS Lambda, Python",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Agent development framework",
@@ -556,13 +556,14 @@
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "Deserv: Decentralized Serverless Computing",
         "frameworkSecondaryPaper": "Protocols Over Things: A Decentralized Programming Model for the Internet of Things",
-        "frameworkMasBuiltUsingFramework": "no",
+        "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
     },
     {
         "frameworkMasExtension": 0,
         "projectName": "Hercule",
-        "description": "Declarative contract platform",
+        "description": "Declarative contract platform. KEYWORDS: Norm state computation,
+            Unstructured data storage and processing using Hyperledger Fabric and CouchDB",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Norm state computation",
@@ -585,7 +586,7 @@
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "Hercule: Representing and Reasoning About Norms as a Foundation for Declarative Contracts Over Blockchain",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework": "no",
+        "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
     },
     {
