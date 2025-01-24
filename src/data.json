@@ -591,7 +591,7 @@
     {
         "frameworkMasExtension": 1,
         "projectName": "MAPS-HOLO (HOLOnic MultiAgent Parking System)",
-        "description": "Holonic Multiagent System",
+        "description": "Holonic Multiagent System. KEYWORDS: Smart parking, JaCaMo",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Smart Parking",
@@ -622,7 +622,7 @@
     {
         "frameworkMasExtension": 2,
         "projectName": "2COMM",
-        "description": "2COMM is a framework for defining social relationships, represented as social commitments, among parties, conceived as autonomous agents.",
+        "description": "2COMM is a framework for defining social relationships, represented as social commitments, among parties, conceived as autonomous agents. 2COMM allows to decouple interaction design from agent design and provides to  the agents the infrastructure to concretely instantiate and manipulate commitments within the scope of interaction protocols. Currently, two adapters have been developed for allowing the use of 2COMM within the JADE and JaCaMo multi-agent platforms.",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "2COMM allows to decouple interaction design from agent design and provides to  the agents the infrastructure to concretely instantiate and manipulate commitments within the scope of interaction protocols.",
@@ -652,7 +652,7 @@
     {
         "frameworkMasExtension": 2,
         "projectName": "JaCaMo+Accountability",
-        "description": "The work proposes an extension of JaCaMo with the notion of accountability, grounded on responsibility, that supports the development of robust distributed systems.",
+        "description": "The work proposes an extension of JaCaMo with the notion of accountability, grounded on responsibility, that supports the development of robust distributed systems. The framework allows agents in an organization to keep a right level of situational awareness, through the introduction of the means for gathering and propagating accounts, upon which actions can be taken. The proposal is based on a formalization of accountability that encompasses both a normative and a structural dimension. Organization designers can specify accountability agreements among role player agents, encoding when an account request is legitimate and what kind of information should be made available in response. JaCaMo's normative system is leveraged to enforce the accountability mechanism by relying on dedicated (accounting) goals and norms.",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "The framework allows agents in an organization to keep a right level of situational awareness, through the introduction of the means for gathering and propagating accounts, upon which actions can be taken.",
@@ -682,7 +682,7 @@
     {
         "frameworkMasExtension": 2,
         "projectName": "JaCaMo+Exceptions",
-        "description": "The library is an extension of Moise, the organizational model and infrastructure adopted in JaCaMo, that explicitly encompasses the notion of exception as a first-class element in the design of a multi-agent organization.",
+        "description": "The library is an extension of Moise, the organizational model and infrastructure adopted in JaCaMo, that explicitly encompasses the notion of exception as a first-class element in the design of a multi-agent organization. An exception handling mechanism is provided, that is seamlessly integrated with organizational concepts, such as responsibilities, goals and norms. The infrastructure allows a designer to specify, besides responsibilities for organizational goals, also responsibilities for managing exceptions, that is, for providing feedback about the context in which exceptions occur, and for handling it.",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "An exception handling mechanism is provided, that is seamlessly integrated with organizational concepts, such as responsibilities, goals and norms.",
@@ -741,7 +741,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "AgentScript Cross-Compiler (ASC2)",
-        "description": "BDI Framework",
+        "description": "BDI Framework. KEYWORDS: Agent-Based Programming, Cross-Compiler",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "Agent-Based Programming",
@@ -764,13 +764,13 @@
         "frameworkSoftwareEngineeringApproach": "Actor-oriented programming using AKKA + mostly agile",
         "frameworkPrimaryPaper": "https://dl.acm.org/doi/abs/10.1145/3427760.3428339",
         "frameworkSecondaryPaper": "https://link.springer.com/chapter/10.1007/978-3-030-97457-2_15",
-        "frameworkMasBuiltUsingFramework": "yes",
+        "frameworkMasBuiltUsingFramework": "Yes",
         "comments": ""
     },
     {
         "frameworkMasExtension": 0,
         "projectName": "DALI",
-        "description": "DALI is Prolog extension language framework to develop Intelligent Multi Agent Systems",
+        "description": "DALI is Prolog extension language framework to develop Intelligent Multi Agent Systems. DALI is a meta interpreter built on top of Sicstus Prolog. It can be interfaced with many message broker systems for distributed application development. DALI agents are able to learn, either via deep learning or by learning from other trusted agents. This in order to enlarge the set of perceptions they can recognize, elaborate on and react to, and in order to expand their range of expertise",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "DALI is a meta interpreter built on top of Sicstus Prolog",
@@ -799,7 +799,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "MatchU.ai",
-        "description": "matching",
+        "description": "Platform for decision making and resource allocation. KEYWORDS: Fairness",
         "projectType": "It is a platform for everyday decision making as well as for education and learning of matching algorithms.",
         "keyPhrases": [
             "Resource allocation",
@@ -811,18 +811,18 @@
         "frameworkCommunityAvailability": "Not yet, but we plan to make it available soon.",
         "frameworkPreviousVersionsAvailability": "No",
         "frameworkPreviousVersionsURL": "",
-        "frameworkLicense": "NA",
+        "frameworkLicense": "",
         "frameworkListOfBugs": "No",
         "frameworkRealApplication": "Many educators have contacted us expressing that they are using our platform in teaching undergrad and graduate classes.",
         "frameworkDocumentation": "",
-        "frameworkTechnicalAssistance": "NA",
+        "frameworkTechnicalAssistance": "",
         "frameworkDependencies": "",
         "frameworkTesting": "Yes",
         "frameworkTestingResources": "",
         "frameworkSoftwareEngineeringApproach": "Prototyping\nAgile development",
         "frameworkPrimaryPaper": "https://ojs.aaai.org//index.php/AAAI/article/view/7090",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework": "no",
+        "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
     },
     {
@@ -851,7 +851,7 @@
         "frameworkSoftwareEngineeringApproach": "Partially",
         "frameworkPrimaryPaper": "Developing multi-agent systems with a FIPA-compliant agent framework. Fabio Bellifemine, Agostino Poggi and Giovanni Rimassa - Software practice & Experience",
         "frameworkSecondaryPaper": "JADE: A software framework for developing multi-agent applications. Lessons learned F Bellifemine, G Caire, A Poggi, G Rimassa Information and Software technology 50 (1-2), 10-21",
-        "frameworkMasBuiltUsingFramework": "Several papers describe Jade",
+        "frameworkMasBuiltUsingFramework": "Several papers describe MAS built using Jade",
         "comments": ""
     },
     {
@@ -886,7 +886,7 @@
     {
         "frameworkMasExtension": 1,
         "projectName": "AdaptSchedule",
-        "description": "Distributed constraint satisfaction",
+        "description": "Distributed constraint satisfaction. KEYWORDS: Activity scheduling, Decision support",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Activity scheduling",
@@ -910,14 +910,14 @@
         "masTesting": "Yes",
         "masTestingResources": "",
         "masSoftwareEngineeringApproach": "",
-        "masPrimaryPaper": "4.\tEdmund H. Durfee, Lynn H. Garrett, and Abigail Johnson. \u201cPromoting Independence with a Schedule Management Assistant that Anticipates Disruptions,\u201d Journal of Healthcare Informatics Research 4:19-49, 2020.",
+        "masPrimaryPaper": "Edmund H. Durfee, Lynn H. Garrett, and Abigail Johnson. Promoting Independence with a Schedule Management Assistant that Anticipates Disruptions, Journal of Healthcare Informatics Research 4:19-49, 2020.",
         "masSecondaryPaper": "",
         "comments": ""
     },
     {
         "frameworkMasExtension": 0,
         "projectName": "JaCaMo",
-        "description": "Development framework for MAS",
+        "description": "Development framework for MAS that considers agent, communication, environment, and organisation dimensions. KEYWORDS: Jason, CArtAgO, Moise",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Considers agent, communication, environment, and organisation dimensions",
@@ -934,19 +934,19 @@
         "frameworkRealApplication": "As far as we know, JaCaMo is mostly used by scientists now. Regarding Jason (which is part of JaCaMo), a list of users is available at http://jason.sourceforge.net/wp/projects/",
         "frameworkDocumentation": "",
         "frameworkTechnicalAssistance": "we have community based support, mostly based on the GitHub issues",
-        "frameworkDependencies": "java is required",
+        "frameworkDependencies": "Java is required",
         "frameworkTesting": "Yes",
         "frameworkTestingResources": "",
-        "frameworkSoftwareEngineeringApproach": "nothing remarkable.",
+        "frameworkSoftwareEngineeringApproach": "Nothing remarkable.",
         "frameworkPrimaryPaper": "Olivier Boissier, Rafael H. Bordini, Jomi H\u00fcbner, and Alessandro Ricci. Multi-Agent Oriented Programming: Programming Multi-Agent Systems Using JaCaMo. MIT Press, 2020. ",
         "frameworkSecondaryPaper": "Olivier Boissier, Rafael H. Bordini, Jomi F. H\u00fcbner, and Alessandro Ricci. Dimensions in programming multi-agent systems. The Knowledge Engineering Review, 34, 2019. ",
-        "frameworkMasBuiltUsingFramework": "no",
+        "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
     },
     {
         "frameworkMasExtension": 0,
         "projectName": "CellNet",
-        "description": "Java framework for simulating complex adaptive systems by means of multi-agent systems.",
+        "description": "Java framework for simulating complex adaptive systems by means of multi-agent systems. Simulations consider the use of serveral models, including evolutionary game theory, self-organization and cellular automata. Simulation also consider the use of complex networks, including: spatial, small-world, scale-free and random nets.",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "Simulations consider the use of serveral models, including evolutionary game theory, self-organization and cellular automata.",
@@ -998,13 +998,13 @@
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "Baiardi, M., Burattini, S., Ciatto, G., Pianini, D. Blending BDI Agents with Object-Oriented and Functional Programming with JaKtA. SN COMPUT. SCI. 5, 1003 (2024). https://doi.org/10.1007/s42979-024-03244-y",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework":"yes",
+        "frameworkMasBuiltUsingFramework":"Yes",
         "comments": "Some examples of use can be found in https://github.com/jakta-bdi/jakta-examples"
      },
       {
         "frameworkMasExtension": 0,
         "projectName": "SARL",
-        "description": "SARL is a general purpose agent oriented programming language that provides specific constructs for multiagent systems and holonic multiagent systems. ",
+        "description": "SARL is a general purpose agent oriented programming language that provides specific constructs for multiagent systems and holonic multiagent systems.	SARL aims at providing the fundamental abstractions for dealing with concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration. The associated runtime environment, named Janus, enables to deploy the agents even on a computer network with a zero-configuration approach.	SARL compiler generates Java and Python code that could be directly used or invoked from a Java or Python application.	SARL is architecture agnostic. You could implement your preferred agent architecture (BDI, reactive, etc...) and interaction mechanism (events, messages, BSPL protocols, etc.)",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration.",
