@@ -562,8 +562,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "Hercule",
-        "description": "Declarative contract platform. KEYWORDS: Norm state computation,
-            Unstructured data storage and processing using Hyperledger Fabric and CouchDB",
+        "description": "Declarative contract platform. KEYWORDS: Norm state computation, Unstructured data storage and processing using Hyperledger Fabric and CouchDB",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Norm state computation",
