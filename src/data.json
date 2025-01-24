@@ -2,7 +2,7 @@
       {
         "frameworkMasExtension": 2,
         "projectName": "Rv4JaCa - runtime verification for multi-agent systems",
-        "description": "Rv4JaCa is a Runtime Verification approach for Multi-Agent Systems using the JaCaMo framework",
+        "description": "Rv4JaCa is a Runtime Verification approach for Multi-Agent Systems using the JaCaMo framework. KEYWORDS: Runtime Verification; JaCaMo; Runtime Monitoring Language, RML",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Runtime Verification",
@@ -32,7 +32,7 @@
     {
         "frameworkMasExtension": 1,
         "projectName": "Affective Agents",
-        "description": "Pedestrian Simulation with Affective State Modeling",
+        "description": "Pedestrian Simulation with Affective State Modeling. KEYWORDS: Human interaction simulation.",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "Pedestrian Simulation",
@@ -49,10 +49,10 @@
         "masDevelopedWithFramework": "NetLogo",
         "masLinkToFramework": "https://ccl.northwestern.edu/netlogo/, version 6.2.0",
         "masFrameworkVersion": "",
-        "masRealApplication": "This is a new project, by now it is only used for our research",
+        "masRealApplication": "This is a new project, by now it is only used for the developers' research",
         "masDocumentation": "Manuals",
         "masTechnicalAssistance": "daniela.briola@unimib.it",
-        "masDependencies": "no need, it is self contained",
+        "masDependencies": "No need, it is self contained",
         "masTesting": "Yes, we performed some testing but no testing resources exist",
         "masTestingResources": "",
         "masSoftwareEngineeringApproach": "No",
@@ -63,7 +63,7 @@
      {
         "frameworkMasExtension": 0,
         "projectName": "Jadescript",
-        "description": "An imperative, event-driven, agent-oriented programming language for agents and multi-agent systems based on JADE",
+        "description": "An imperative, event-driven, agent-oriented programming language for agents and multi-agent systems based on JADE. KEYWORDS: Mainstream-oriented language and tools for agents and multi-agent systems",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "A programming language for agents and multi-agent systems based on JADE",
@@ -92,7 +92,7 @@
      {
         "frameworkMasExtension": 2,
         "projectName": "LEARN: a p2p layer for JADE MASs",
-        "description": "LEARN enables the execution of collaborative scenarios in a fully decentralized way by combining the agent-based paradigm, well suited to design collaborative and autonomous nodes, and the peer-to-peer paradigm, well suited to design distributed and dynamic network infrastructures.",
+        "description": "LEARN enables the execution of collaborative scenarios in a fully decentralized way by combining the agent-based paradigm, well suited to design collaborative and autonomous nodes, and the peer-to-peer paradigm, well suited to design distributed and dynamic network infrastructures. KEYWORDS: p2p, JADE",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "p2p",
@@ -122,7 +122,7 @@
      {
         "frameworkMasExtension": 0,
         "projectName": "JS-son",
-        "description": "A Lean, Extensible JavaScript Agent Programming Library",
+        "description": "A Lean, Extensible JavaScript Agent Programming Library. KEYWORDS: Belief-Desire-Intention, BDI, Agents on the Web",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "JavaScript-based agents",
@@ -142,7 +142,7 @@
         "frameworkDependecies": "No 3rd-party dependencies are required",
         "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",
         "frameworkTestingResources": "https://github.com/TimKam/JS-son/tree/master/spec",
-        "frameworkSoftwareEngineeringApproach": "N/A",
+        "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "https://link.springer.com/chapter/10.1007/978-3-030-51417-4_11",
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework":"There are some small MAS openly available, e.g. in the examples",
@@ -152,7 +152,7 @@
         "frameworkMasExtension": 0,
         "projectName": "MAPF",
         "description": "Multi-agent path finding",
-        "projectType": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems",
+        "projectType": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems. KEYWORDS: collision-free path, multi-robot system",
         "keyPhrases": [
             "collision-free paths",
             "multi-robot systems",
@@ -163,15 +163,15 @@
         "frameworkCommunityAvailability": "Yes, the source code is available",
         "frameworkPreviousVersionsAvailability": "No",
         "frameworkPreviousVersionsURL": "",
-        "frameworkLicense": "depends on the software",
+        "frameworkLicense": "Depends on the software",
         "frameworkListOfBugs": "No",
-        "frameworkRealApplication": "N/A",
-        "frameworkDocumentation": "Tutorials;Videos;Courses;",
+        "frameworkRealApplication": "",
+        "frameworkDocumentation": "Tutorials; Videos; Courses",
         "frameworkTechnicalAssistance": "No",
-        "frameworkDependecies": "N/A",
+        "frameworkDependecies": "",
         "frameworkTesting": "Yes",
         "frameworkTestingResources": "",
-        "frameworkSoftwareEngineeringApproach": "N/A",
+        "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "http://mapf.info/index.php/Main/Publications",
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework":"See http://mapf.info/",
@@ -180,7 +180,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "Python Intelligent Agent Framework (Piaf)",
-        "description": "Fully written in modern Python, FIPA-compliant\n",
+        "description": "Fully written in modern Python, FIPA-compliant, extensible and light-weight; uses asynchronous programming behind the woods to power agents",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "Uses asynchronous programming behind the woods to power agents",
@@ -203,7 +203,7 @@
         "frameworkSoftwareEngineeringApproach": "TDD, except for the ongoing Web API (but tests will come soon)",
         "frameworkPrimaryPaper": "No paper because I'm not a scientist ;)",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework": "no",
+        "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
     },
     {
@@ -975,7 +975,7 @@
       {
         "frameworkMasExtension": 0,
         "projectName": "JaKtA",
-        "description": "JaKtA is a framework for developing BDI multi-agent systems using a Kotlin internal DSL; JaKtA main goal is to make Agent-Oriented Programming and the BDI paradigm more accessible for mainstream developers, blending with other programming paradigms",
+        "description": "JaKtA is a framework for developing BDI multi-agent systems using a Kotlin internal DSL. Its main goal is to make Agent-Oriented Programming and the BDI paradigm more accessible for mainstream developers, blending with other programming paradigms. JaKtA focuses on pluggability of different components, including management of agent concurrent execution.",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Making the BDI paradigm more accessible",
@@ -1000,5 +1000,35 @@
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework":"yes",
         "comments": "Some examples of use can be found in https://github.com/jakta-bdi/jakta-examples"
+     },
+      {
+        "frameworkMasExtension": 0,
+        "projectName": "SARL",
+        "description": "SARL is a general purpose agent oriented programming language that provides specific constructs for multiagent systems and holonic multiagent systems.	It aims at providing the fundamental abstractions for dealing with concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration. The associated runtime environment, named Janus, enables to deploy the agents even on a computer network with a zero-configuration approach. SARL compiler generates Java and Python code that could be directly used or invoked from a Java or Python application. SARL is architecture agnostic. Developers may implement their preferred agent architecture (BDI, reactive, etc...) and interaction mechanism (events, messages, BSPL protocols, etc.)",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "Concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration.",
+            "Zero-configuration approach.",
+            "Java, Python",
+            "architecture agnostic"
+        ],
+        "frameworkURL": "http://www.sarl.io/",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
+        "frameworkPreviousVersionsAvailability": "Yes, available in the same repo of the current version",
+        "frameworkPreviousVersionsURL": "https://github.com/sarl/sarl",
+        "frameworkLicense": "Apache-2.0",
+        "frameworkListOfBugs": "Yes",
+        "frameworkRealApplication": "Aptitude (Belgium): holonic camera sensor network; X Plan Research (France): predictive nuclear central maintenance; Thipisee (France): agentification of smart phone applications; OPM (France): pathway discovery in oncology; Univ. Toulouse (France): Adaptive Multi-Agent Systems for Dynamic Big Data Analytics; Zayed Univ. (Dubai): Simulation of road traffic and connected infrastructure;  Zayed Univ. (Dubai): Confort and energy management of smart buildings; RMIT (Australia): Elevator control",
+        "frameworkDocumentation": "Tutorials; Demos; Courses; Manuals",
+        "frameworkTechnicalAssistance": "stephane.galland@utbm.fr",
+        "frameworkDependecies": "",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
+        "frameworkTestingResources": "",
+        "frameworkSoftwareEngineeringApproach": "SARL and Janus are fully implemented using the MDE approach, and the Eclipse Ecore framework.
+Additionally, SARL is a possible implementation of the ASPECS agent-oriented software engineering (www.aspecs.org).",
+        "frameworkPrimaryPaper": "Rodriguez, S., Gaud, N., & Galland, S. (2014). SARL: a general-purpose agent-oriented programming language. The 2014 IEEE/WIC/ACM International Conference on Intelligent Agent Technology",
+        "frameworkSecondaryPaper": "Galland, S., Rodriguez, S., & Gaud, N. (2020). Run-time Environment for the SARL Agent-Programming Language: the Example of the Janus platform. International Journal on Future Generation Computer Systems. https://doi.org/10.1016/j.future.2017.10.020",
+        "frameworkMasBuiltUsingFramework":"Some examples of publically available projects are listed on http://www.sarl.io/community/index.html",
+        "comments": ""
      }
 ]
