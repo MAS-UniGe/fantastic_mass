@@ -232,7 +232,7 @@
         "frameworkSoftwareEngineeringApproach": "No",
         "frameworkPrimaryPaper": "Ellie Beauprez, Anne-C\u00e9cile Caron, Maxime Morge, Jean-Christophe Routier. A Multi-Agent Negotiation Strategy for Reducing the Flowtime. 13th International Conference on Agents and Artificial Intelligence, Feb 2021, Online streaming, Spain. pp.58-68.",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework": "no",
+        "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
     },
     {
@@ -256,7 +256,7 @@
         "extensionLinkToExtendedFramework": "https://github.com/eclipse/sumo",
         "extensionRealApplication": "In this link it is possible to check the papers that cite my library: https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6462936269775000752",
         "extensionDocumentation": "Manuals",
-        "extensionTechnicalAssistance": "I try to provide technical assistance via GitHub Issues on the repository",
+        "extensionTechnicalAssistance": "The developers try to provide technical assistance via GitHub Issues on the repository",
         "extensionDependecies": "SUMO",
         "extensionTesting": "Yes",
         "extensionTestingResources": "",
@@ -268,7 +268,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "ASTRA Programming Language",
-        "description": "Agent Oriented Programming Language",
+        "description": "Agent Oriented Programming Language. KEYWORDS: AgentSpeak(L), TeleReactive",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "AgentSpeak(L)",
@@ -291,12 +291,12 @@
         "frameworkSoftwareEngineeringApproach": "In the last year, we have formalised the methodology used to follow a more Agile approach with regular sprints. Most bugs/enhancements are recorded in the Gitlab issue tracker and we try to make relatively regular releases when new issues are logged. The Gitflow branching strategy is used to manage development and CI/CD Pipelines are used to automatically push releases to Maven Central.",
         "frameworkPrimaryPaper": "Reflecting on Agent Programming with AgentSpeak(L)",
         "frameworkSecondaryPaper": "Multiple Inheritance in AgentSpeak(L)-style programming languages",
-        "frameworkMasBuiltUsingFramework": "yes",
+        "frameworkMasBuiltUsingFramework": "Yes",
         "comments": "Some prototypes are available, but they are not yet at the level of maturity that would justify their addition to this repository."
     },
     {
         "frameworkMasExtension": 2,
-        "projectName": "Multi-Agent MicroServices (MAMS)",
+        "projectName": "Multi-Agent MicroServices (MAMS). KEYWORDS: Microservices Architecture, CArtAgO",
         "description": "Hypermedia Agents",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
@@ -327,7 +327,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "Model-Checking Agent Programming Languages (MCAPL) Framework",
-        "description": "Verification Framework including several programming languages, most notably Gwendolen",
+        "description": "Verification Framework including several programming languages, most notably Gwendolen. KEYWORDS: BDI, Belief-Desire-Intention, Model-checking, Agent programming language, Autonomous systems",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Beliefs-desires-intentions",
@@ -356,7 +356,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "STV: StraTegic Verifier",
-        "description": "Formal verification",
+        "description": "Formal verification. KEYWORDS: Alternating-time temporal logic verification, Incomplete information, Partial-order reductions, Assume-guarantee verification",
         "projectType": "Verifier for the MAS systems.",
         "keyPhrases": [
             "Alternating-time temporal logic verification",
@@ -379,14 +379,14 @@
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "https://arxiv.org/pdf/2203.01033.pdf",
         "frameworkSecondaryPaper": "https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1770.pdf",
-        "frameworkMasBuiltUsingFramework": "yes",
+        "frameworkMasBuiltUsingFramework": "Yes",
         "comments": "The framework is not aimed at building MAS, but at verifying them. On the other hand, the tool supports simple input language used to specify MAS. Some examples can be found at https://github.com/blackbat13/stv/tree/master/gui/examples"
     },
     {
         "frameworkMasExtension": 0,
         "projectName": "Equilibrium Verification Environment (EVE)",
         "description": "Nash Equilibrium",
-        "projectType": "Verification and synthesis tool for MAS",
+        "projectType": "Verification and synthesis tool for MAS. KEYWORDS: Game Theory, Verification, Temporal Logic, Synthesis",
         "keyPhrases": [
             "Game Theory",
             "Verification",
@@ -408,14 +408,14 @@
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "Julian Gutierrez, Muhammad Najib, Giuseppe Perelli, Michael Wooldridge, Automated temporal equilibrium analysis: Verification and synthesis of multi-player games, Artificial Intelligence, Volume 287, 2020, 103353, ISSN 0004-3702, https://doi.org/10.1016/j.artint.2020.103353.",
         "frameworkSecondaryPaper": "Julian Gutierrez, Muhammad Najib, Giuseppe Perelli, Michael Wooldridge, EVE: A Tool for Temporal Equilibrium Analysis. Automated Technology for Verification and Analysis. ATVA 2018. https://doi.org/10.1007/978-3-030-01090-4_35",
-        "frameworkMasBuiltUsingFramework": "no",
+        "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
     },
     {
         "frameworkMasExtension": 2,
         "projectName": "ROS-A ",
         "description": "An Interface for Programming Verifiable Autonomous Agents in ROS",
-        "projectType": "Extension for existing programming languages (Jason and Gwendolen)",
+        "projectType": "Extension for existing programming languages (Jason and Gwendolen). KEYWORDS: High-level decision-making with rational agents in robotic applications, BDI-based agents in robotic systems developed using ROS",
         "keyPhrases": [
             "High-level decision-making with rational agents in robotic applications",
             "BDI-based agents in robotic systems developed using ROS",
@@ -445,7 +445,7 @@
         "frameworkMasExtension": 0,
         "projectName": "SLAPP",
         "description": "A shell shell for agent-based simulation",
-        "projectType": "Agent-based simulation",
+        "projectType": "Agent-based simulation Using Python from the pioneer Swarm tool",
         "keyPhrases": [
             "Using Python",
             "From the pioneer Swarm tool",
@@ -467,13 +467,13 @@
         "frameworkSoftwareEngineeringApproach": "OOP",
         "frameworkPrimaryPaper": "Reference a https://terna.github.io/SLAPP3/SLAPP_Reference_Handbook.pdf",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework": "yes",
+        "frameworkMasBuiltUsingFramework": "Yes",
         "comments": "https://terna.github.io/oligopoly/"
     },
     {
         "frameworkMasExtension": 1,
         "projectName": "Deep Q-Learning Agent for Traffic Signal Control",
-        "description": "reinforcement learning",
+        "description": "Reinforcement Learning. KEYWORDS: Traffic control, Agent-based simulation",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "Traffic control",
@@ -488,8 +488,8 @@
         "masLicense": "MIT License",
         "masListOfBugs": "No",
         "masDevelopedWithFramework": "The system makes use of SUMO (Simulation of Urban MObility - https://www.dlr.de/ts/en/desktopdefault.aspx/tabid-9883/16931_read-41000/) - that is an agent based simulator, but not a MAS development plarform - for the agent's environment, but the traffic control agent is based on Python and Tensorflow.",
-        "masLinkToFramework": "N/A",
-        "masFrameworkVersion": "N/A",
+        "masLinkToFramework": "",
+        "masFrameworkVersion": "",
         "masRealApplication": "No, the repository has been used by other researchers, and we are in the process of extending and sharing it in a different and more structured repository",
         "masDocumentation": "",
         "masTechnicalAssistance": "No",
