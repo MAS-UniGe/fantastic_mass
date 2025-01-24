@@ -1004,7 +1004,7 @@
       {
         "frameworkMasExtension": 0,
         "projectName": "SARL",
-        "description": "SARL is a general purpose agent oriented programming language that provides specific constructs for multiagent systems and holonic multiagent systems.",
+        "description": "SARL is a general purpose agent oriented programming language that provides specific constructs for multiagent systems and holonic multiagent systems. ",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration.",
