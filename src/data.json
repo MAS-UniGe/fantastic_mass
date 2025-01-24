@@ -971,5 +971,34 @@
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework": "yes",
         "comments": "The framework includes the simulations described in the book."
-    }
+    },
+      {
+        "frameworkMasExtension": 0,
+        "projectName": "JaKtA",
+        "description": "JaKtA is a framework for developing BDI multi-agent systems using a Kotlin internal DSL; JaKtA main goal is to make Agent-Oriented Programming and the BDI paradigm more accessible for mainstream developers, blending with other programming paradigms",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "Making the BDI paradigm more accessible",
+            "Pluggability of different components",
+            "Concurrent execution",
+            "BDI, Kotlin"
+        ],
+        "frameworkURL": "https://github.com/jakta-bdi/jakta",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
+        "frameworkPreviousVersionsAvailability": "Yes, available in the same repo of the current version",
+        "frameworkPreviousVersionsURL": "",
+        "frameworkLicense": "Apache-2.0",
+        "frameworkListOfBugs": "Yes",
+        "frameworkRealApplication": "Not at the moment, apart from developers",
+        "frameworkDocumentation": "Documentation will be available at https://jakta-bdi.github.io/",
+        "frameworkTechnicalAssistance": "https://github.com/orgs/jakta-bdi/discussions/categories/q-a",
+        "frameworkDependecies": "Java 11+, (preferably also Kotlin dev tools)",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
+        "frameworkTestingResources": "Available in the main repository, under each module",
+        "frameworkSoftwareEngineeringApproach": "Informal agile methodology",
+        "frameworkPrimaryPaper": "Baiardi, M., Burattini, S., Ciatto, G., Pianini, D. Blending BDI Agents with Object-Oriented and Functional Programming with JaKtA. SN COMPUT. SCI. 5, 1003 (2024). https://doi.org/10.1007/s42979-024-03244-y",
+        "frameworkSecondaryPaper": "",
+        "frameworkMasBuiltUsingFramework":"",
+        "comments": "Some examples of use can be found in https://github.com/jakta-bdi/jakta-examples"
+     }
 ]
