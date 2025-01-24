@@ -151,8 +151,8 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "MAPF",
-        "description": "Multi-agent path finding",
-        "projectType": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems. KEYWORDS: collision-free path, multi-robot system",
+        "description": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems. KEYWORDS: collision-free path, multi-robot system",
+        "projectType": "Software for path finding",
         "keyPhrases": [
             "collision-free paths",
             "multi-robot systems",
@@ -385,8 +385,8 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "Equilibrium Verification Environment (EVE)",
-        "description": "Nash Equilibrium",
-        "projectType": "Verification and synthesis tool for MAS. KEYWORDS: Game Theory, Verification, Temporal Logic, Synthesis",
+        "description": "Nash Equilibrium. KEYWORDS: Game Theory, Verification, Temporal Logic, Synthesis",
+        "projectType": "Verification and synthesis tool for MAS",
         "keyPhrases": [
             "Game Theory",
             "Verification",
@@ -414,8 +414,8 @@
     {
         "frameworkMasExtension": 2,
         "projectName": "ROS-A ",
-        "description": "An Interface for Programming Verifiable Autonomous Agents in ROS",
-        "projectType": "Extension for existing programming languages (Jason and Gwendolen). KEYWORDS: High-level decision-making with rational agents in robotic applications, BDI-based agents in robotic systems developed using ROS",
+        "description": "An Interface for Programming Verifiable Autonomous Agents in ROS. KEYWORDS: High-level decision-making with rational agents in robotic applications, BDI-based agents in robotic systems developed using ROS",
+        "projectType": "Extension for existing programming languages (Jason and Gwendolen)",
         "keyPhrases": [
             "High-level decision-making with rational agents in robotic applications",
             "BDI-based agents in robotic systems developed using ROS",
