@@ -1119,6 +1119,33 @@
         "extensionPrimaryPaper": "https://doi.org/10.1007/978-3-319-50983-9_8",
         "extensionSecondaryPaper": "https://link.springer.com/chapter/10.1007/978-3-031-55326-4_3",
         "comments": ""
-    }
-    
+    }, 
+    {
+        "frameworkMasExtension": 0,
+        "projectName": "chonIDE",
+        "description": "chonIDE is an IDE to develop Embedded MAS that centralizes the entire development in a single IDE with all required integrations and configurations done. Moreover, the embedding and monitoring MAS of the IDE are done remotely without physical wired connections. KEYWORDS: Embedded Multi-agent System, Development, Integrated Development Environments	Multi-agent System, Internet of Things",
+        "projectType": "Agent-oriented software engineering, IDE",
+        "keyPhrases": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "frameworkURL": "https://chonide.chon.group/",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
+        "frameworkPreviousVersionsAvailability": "No",
+        "frameworkPreviousVersionsURL": "",
+        "frameworkLicense": "CC-BY-4.0",
+        "frameworkListOfBugs": "Yes",
+        "frameworkRealApplication": "",
+        "frameworkTechnicalAssistance": "chon@grupo.cefet-rj.br",
+        "frameworkDependecies": "",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
+        "frameworkTestingResources": "",
+        "frameworkSoftwareEngineeringApproach": "",
+        "frameworkPrimaryPaper": "http://dx.doi.org/10.1007/978-3-031-37616-0_29",
+        "frameworkSecondaryPaper": "",
+        "frameworkMasBuiltUsingFramework": "",
+        "comments": ""
+     }    
 ]
