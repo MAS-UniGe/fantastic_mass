@@ -1089,5 +1089,36 @@
         "extensionPrimaryPaper": "https://doi.org/10.1007/978-3-031-37616-0_17",
         "extensionSecondaryPaper": "",
         "comments": ""
+    },
+        {
+        "frameworkMasExtension": 2,
+        "projectName": "ARGO",
+        "description": "ARGO is a customized agent architecture for programming embedded robotic agents using Jason or JaCaMo Framework. KEYWORDS: Embedded multi-agent systems, Internet of Things, Edge Computing, Real-world Multi-agent Systems, Embodied Agents",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "extensionURL": "https://argo.chon.group/",
+        "extensionCommunityAvailability": "Yes, the source code is available",
+        "extensionPreviousVersionsAvailability": "Yes, in another location",
+        "extensionPreviousVersionsURL": "https://sourceforge.net/projects/argo-for-jason/",
+        "extensionLicense": "CC-BY-4.0",
+        "extensionListOfBugs": "Yes",
+        "extensionOfFramework": "JaCaMo, Jason, latest version",
+        "extensionLinkToExtendedFramework": "https://jason-lang.github.io/, https://jacamo-lang.github.io/",
+        "extensionRealApplication": "",
+        "extensionDocumentation": "Tutorials; Videos",
+        "extensionTechnicalAssistance": "chon@grupo.cefet-rj.br",
+        "extensionDependecies": "Jason or JaCaMo",
+        "extensionTesting": "Yes",
+        "extensionTestingResources": "Yes, in the repo",
+        "extensionSoftwareEngineeringApproach": "",
+        "extensionPrimaryPaper": "https://doi.org/10.1007/978-3-319-50983-9_8",
+        "extensionSecondaryPaper": "https://link.springer.com/chapter/10.1007/978-3-031-55326-4_3",
+        "comments": ""
     }
+    
 ]
