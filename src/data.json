@@ -3,7 +3,7 @@
         "frameworkMasExtension": 2,
         "projectName": "Rv4JaCa - runtime verification for multi-agent systems",
         "description": "Rv4JaCa is a Runtime Verification approach for Multi-Agent Systems using the JaCaMo framework. KEYWORDS: Runtime Verification; JaCaMo; Runtime Monitoring Language, RML",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, verification",
         "keyPhrases": [
             "Runtime Verification",
             "JaCaMo",
@@ -64,7 +64,7 @@
         "frameworkMasExtension": 0,
         "projectName": "Jadescript",
         "description": "An imperative, event-driven, agent-oriented programming language for agents and multi-agent systems based on JADE. KEYWORDS: Mainstream-oriented language and tools for agents and multi-agent systems",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, programming language",
         "keyPhrases": [
             "A programming language for agents and multi-agent systems based on JADE",
             "Imperative, event-driven, agent-oriented programming",
@@ -152,7 +152,7 @@
         "frameworkMasExtension": 0,
         "projectName": "MAPF",
         "description": "Software and other information to find effective and collision-free paths for multi-agent or multi-robot systems. KEYWORDS: collision-free path, multi-robot system",
-        "projectType": "Software for path finding",
+        "projectType": "Path finding",
         "keyPhrases": [
             "collision-free paths",
             "multi-robot systems",
@@ -210,7 +210,7 @@
         "frameworkMasExtension": 0,
         "projectName": "SMASTA+",
         "description": "Scala implementation of the Extended Multi-agents Situated Task Allocation",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, task allocation",
         "keyPhrases": [
             "",
             "",
@@ -269,7 +269,7 @@
         "frameworkMasExtension": 0,
         "projectName": "ASTRA Programming Language",
         "description": "Agent Oriented Programming Language. KEYWORDS: AgentSpeak(L), TeleReactive",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, language",
         "keyPhrases": [
             "AgentSpeak(L)",
             "TeleReactive",
@@ -328,7 +328,7 @@
         "frameworkMasExtension": 0,
         "projectName": "Model-Checking Agent Programming Languages (MCAPL) Framework",
         "description": "Verification Framework including several programming languages, most notably Gwendolen. KEYWORDS: BDI, Belief-Desire-Intention, Model-checking, Agent programming language, Autonomous systems",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, verification",
         "keyPhrases": [
             "Beliefs-desires-intentions",
             "Model-checking",
@@ -357,7 +357,7 @@
         "frameworkMasExtension": 0,
         "projectName": "STV: StraTegic Verifier",
         "description": "Formal verification. KEYWORDS: Alternating-time temporal logic verification, Incomplete information, Partial-order reductions, Assume-guarantee verification",
-        "projectType": "Verifier for the MAS systems.",
+        "projectType": "Agent-oriented software engineering, verification",
         "keyPhrases": [
             "Alternating-time temporal logic verification",
             "Incomplete information",
@@ -386,7 +386,7 @@
         "frameworkMasExtension": 0,
         "projectName": "Equilibrium Verification Environment (EVE)",
         "description": "Nash Equilibrium. KEYWORDS: Game Theory, Verification, Temporal Logic, Synthesis",
-        "projectType": "Verification and synthesis tool for MAS",
+        "projectType": "Verification and synthesis",
         "keyPhrases": [
             "Game Theory",
             "Verification",
@@ -445,7 +445,7 @@
         "frameworkMasExtension": 0,
         "projectName": "SLAPP",
         "description": "A shell shell for agent-based simulation",
-        "projectType": "Agent-based simulation Using Python from the pioneer Swarm tool",
+        "projectType": "Agent-based simulation using Python from the pioneer Swarm tool",
         "keyPhrases": [
             "Using Python",
             "From the pioneer Swarm tool",
@@ -505,7 +505,7 @@
         "frameworkMasExtension": 0,
         "projectName": "BSPL",
         "description": "Interaction protocol adapter. KEYWORDS: Agent development framework, Verification tool",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, verification",
         "keyPhrases": [
             "Agent development framework",
             "Verification tool",
@@ -534,7 +534,7 @@
         "frameworkMasExtension": 0,
         "projectName": "Deserv",
         "description": "Interaction protocol adapter. KEYWORDS: Agent development framework, AWS Lambda, Python",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, framework",
         "keyPhrases": [
             "Agent development framework",
             "AWS Lambda",
@@ -622,7 +622,7 @@
     {
         "frameworkMasExtension": 2,
         "projectName": "2COMM",
-        "description": "2COMM is a framework for defining social relationships, represented as social commitments, among parties, conceived as autonomous agents. 2COMM allows to decouple interaction design from agent design and provides to  the agents the infrastructure to concretely instantiate and manipulate commitments within the scope of interaction protocols. Currently, two adapters have been developed for allowing the use of 2COMM within the JADE and JaCaMo multi-agent platforms.",
+        "description": "2COMM is a framework for defining social relationships, represented as social commitments, among parties, conceived as autonomous agents. 2COMM allows to decouple interaction design from agent design and provides to  the agents the infrastructure to concretely instantiate and manipulate commitments within the scope of interaction protocols. Currently, two adapters have been developed for allowing the use of 2COMM within the JADE and JaCaMo multi-agent platforms",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "2COMM allows to decouple interaction design from agent design and provides to  the agents the infrastructure to concretely instantiate and manipulate commitments within the scope of interaction protocols.",
@@ -652,7 +652,7 @@
     {
         "frameworkMasExtension": 2,
         "projectName": "JaCaMo+Accountability",
-        "description": "The work proposes an extension of JaCaMo with the notion of accountability, grounded on responsibility, that supports the development of robust distributed systems. The framework allows agents in an organization to keep a right level of situational awareness, through the introduction of the means for gathering and propagating accounts, upon which actions can be taken. The proposal is based on a formalization of accountability that encompasses both a normative and a structural dimension. Organization designers can specify accountability agreements among role player agents, encoding when an account request is legitimate and what kind of information should be made available in response. JaCaMo normative system is leveraged to enforce the accountability mechanism by relying on dedicated (accounting) goals and norms.",
+        "description": "The work proposes an extension of JaCaMo with the notion of accountability, grounded on responsibility, that supports the development of robust distributed systems. The framework allows agents in an organization to keep a right level of situational awareness, through the introduction of the means for gathering and propagating accounts, upon which actions can be taken. The proposal is based on a formalization of accountability that encompasses both a normative and a structural dimension. Organization designers can specify accountability agreements among role player agents, encoding when an account request is legitimate and what kind of information should be made available in response. JaCaMo normative system is leveraged to enforce the accountability mechanism by relying on dedicated (accounting) goals and norms",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "The framework allows agents in an organization to keep a right level of situational awareness, through the introduction of the means for gathering and propagating accounts, upon which actions can be taken.",
@@ -712,7 +712,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "PADE Python Agent Development Framework",
-        "description": "python",
+        "description": "MAS development framework in Python",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Agents",
@@ -742,7 +742,7 @@
         "frameworkMasExtension": 0,
         "projectName": "AgentScript Cross-Compiler (ASC2)",
         "description": "BDI Framework. KEYWORDS: Agent-Based Programming, Cross-Compiler",
-        "projectType": "Agent-based simulation",
+        "projectType": "Agent-oriented software engineering, compiler",
         "keyPhrases": [
             "Agent-Based Programming",
             "Cross-Compiler",
@@ -771,7 +771,7 @@
         "frameworkMasExtension": 0,
         "projectName": "DALI",
         "description": "DALI is Prolog extension language framework to develop Intelligent Multi Agent Systems. DALI is a meta interpreter built on top of Sicstus Prolog. It can be interfaced with many message broker systems for distributed application development. DALI agents are able to learn, either via deep learning or by learning from other trusted agents. This in order to enlarge the set of perceptions they can recognize, elaborate on and react to, and in order to expand their range of expertise",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, framework",
         "keyPhrases": [
             "DALI is a meta interpreter built on top of Sicstus Prolog",
             "DALI can be interfaced with many message broker systems for distributed application development",
@@ -799,8 +799,8 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "MatchU.ai",
-        "description": "Platform for decision making and resource allocation. KEYWORDS: Fairness",
-        "projectType": "It is a platform for everyday decision making as well as for education and learning of matching algorithms.",
+        "description": "Platform for decision making and resource allocation  as for education and learning of matching algorithms. KEYWORDS: Fairness",
+        "projectType": "Decision making",
         "keyPhrases": [
             "Resource allocation",
             "Fairness",
@@ -808,7 +808,7 @@
             ""
         ],
         "frameworkURL": "http://www.matchu.ai/",
-        "frameworkCommunityAvailability": "Not yet, but we plan to make it available soon.",
+        "frameworkCommunityAvailability": "Not yet, but the developers plan to make it available soon.",
         "frameworkPreviousVersionsAvailability": "No",
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "",
@@ -829,7 +829,7 @@
         "frameworkMasExtension": 0,
         "projectName": "JADE",
         "description": "JADE (Java Agent Development Framework) is a software framework to make easy the development of multi-agent applications in compliance with the FIPA specifications. JADE can then be considered a middle-ware that implements an efficient agent platform and supports the development of multi agent systems. JADE agent platform tries to keep high the performance of a distributed agent system implemented with the Java language.",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, framework",
         "keyPhrases": [
             " ",
             " ",
@@ -858,7 +858,7 @@
         "frameworkMasExtension": 0,
         "projectName": "StreamB",
         "description": "StreamB: a declarative language for automatically processing data streams in abstract environments for agent platforms",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, language, verification",
         "keyPhrases": [
             " ",
             " ",
@@ -887,7 +887,7 @@
         "frameworkMasExtension": 1,
         "projectName": "AdaptSchedule",
         "description": "Distributed constraint satisfaction. KEYWORDS: Activity scheduling, Decision support",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, decision support",
         "keyPhrases": [
             "Activity scheduling",
             "Decision support",
@@ -918,7 +918,7 @@
         "frameworkMasExtension": 0,
         "projectName": "JaCaMo",
         "description": "Development framework for MAS that considers agent, communication, environment, and organisation dimensions. KEYWORDS: Jason, CArtAgO, Moise",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, framework",
         "keyPhrases": [
             "Considers agent, communication, environment, and organisation dimensions",
             "Jason, Cartago, Moise",
@@ -975,8 +975,8 @@
       {
         "frameworkMasExtension": 0,
         "projectName": "JaKtA",
-        "description": "JaKtA is a framework for developing BDI multi-agent systems using a Kotlin internal DSL. Its main goal is to make Agent-Oriented Programming and the BDI paradigm more accessible for mainstream developers, blending with other programming paradigms. JaKtA focuses on pluggability of different components, including management of agent concurrent execution.",
-        "projectType": "Agent-oriented software engineering",
+        "description": "JaKtA is a framework for developing BDI multi-agent systems using a Kotlin internal DSL. Its main goal is to make Agent-Oriented Programming and the BDI paradigm more accessible for mainstream developers, blending with other programming paradigms. JaKtA focuses on pluggability of different components, including management of agent concurrent execution",
+        "projectType": "Agent-oriented software engineering, framework",
         "keyPhrases": [
             "Making the BDI paradigm more accessible",
             "Pluggability of different components",
@@ -1005,7 +1005,7 @@
         "frameworkMasExtension": 0,
         "projectName": "SARL",
         "description": "SARL is a general purpose agent oriented programming language that provides specific constructs for multiagent systems and holonic multiagent systems. SARL aims at providing the fundamental abstractions for dealing with concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration. The associated runtime environment, named Janus, enables to deploy the agents even on a computer network with a zero-configuration approach. SARL compiler generates Java and Python code that could be directly used or invoked from a Java or Python application. SARL is architecture agnostic. You could implement your preferred agent architecture (BDI, reactive, etc...) and interaction mechanism (events, messages, BSPL protocols, etc.)",
-        "projectType": "Agent-oriented software engineering",
+        "projectType": "Agent-oriented software engineering, framework",
         "keyPhrases": [
             "Concurrency, distribution, interaction, decentralization, reactivity, autonomy and dynamic reconfiguration.",
             "Zero-configuration approach.",
