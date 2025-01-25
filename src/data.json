@@ -1123,7 +1123,7 @@
     {
         "frameworkMasExtension": 0,
         "projectName": "chonIDE",
-        "description": "chonIDE is an IDE to develop Embedded MAS that centralizes the entire development in a single IDE with all required integrations and configurations done. Moreover, the embedding and monitoring MAS of the IDE are done remotely without physical wired connections. KEYWORDS: Embedded Multi-agent System, Development, Integrated Development Environments	Multi-agent System, Internet of Things",
+        "description": "",
         "projectType": "Agent-oriented software engineering, IDE",
         "keyPhrases": [
             "",
