@@ -1029,5 +1029,35 @@
         "frameworkSecondaryPaper": "Galland, S., Rodriguez, S., & Gaud, N. (2020). Run-time Environment for the SARL Agent-Programming Language: the Example of the Janus platform. International Journal on Future Generation Computer Systems. https://doi.org/10.1016/j.future.2017.10.020",
         "frameworkMasBuiltUsingFramework": "Some examples of publically available projects are listed on http://www.sarl.io/community/index.html",
         "comments": ""
-     }
+     },
+      {
+        "frameworkMasExtension": 2,
+        "projectName": "jasonEmbedded",
+        "description": "jasonEmbedded is an extension of the Jason framework for developing Embedded MAS with BDI agents capable of controlling hardware, communicating, and moving between IoT devices capable of dealing with fault tolerance. KEYWORDS: Internet of Things, Multi-agent Systems, Edge Computing, Embedded Multi-agent Systems, Real-World Multi-agent System",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "extensionURL": "https://jasonembedded.chon.group/",
+        "extensionCommunityAvailability": "Yes, the source code is available",
+        "extensionPreviousVersionsAvailability": "",
+        "extensionPreviousVersionsURL": "",
+        "extensionLicense": "CC-BY-4.0",
+        "extensionListOfBugs": "Yes",
+        "extensionOfFramework": "Last Jason version",
+        "extensionLinkToExtendedFramework": "https://jason-lang.github.io/",
+        "extensionRealApplication": "No",
+        "extensionDocumentation": "Tutorials; Courses",
+        "extensionTechnicalAssistance": "chon@grupo.cefet-rj.br",
+        "extensionDependecies": "",
+        "extensionTesting": "Yes",
+        "extensionTestingResources": "",
+        "extensionSoftwareEngineeringApproach": "",
+        "extensionPrimaryPaper": "https://doi.org/10.1007/978-3-031-45368-7_25",
+        "extensionSecondaryPaper": "",
+        "comments": ""
+    }
 ]
