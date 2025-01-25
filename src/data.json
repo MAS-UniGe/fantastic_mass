@@ -1138,6 +1138,7 @@
         "frameworkLicense": "CC-BY-4.0",
         "frameworkListOfBugs": "Yes",
         "frameworkRealApplication": "",
+        "frameworkDocumentation": "Tutorials; Courses; Videos",
         "frameworkTechnicalAssistance": "chon@grupo.cefet-rj.br",
         "frameworkDependecies": "",
         "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
