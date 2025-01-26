@@ -296,8 +296,8 @@
     },
     {
         "frameworkMasExtension": 2,
-        "projectName": "Multi-Agent MicroServices (MAMS). KEYWORDS: Microservices Architecture, CArtAgO",
-        "description": "Hypermedia Agents",
+        "projectName": "Multi-Agent MicroServices (MAMS)",
+        "description": "MAMS is an architectural style for integrating multi-agent systems into Microservices architectures. It achieves this by modelling agents as entities that have hypermedia bodies that are exposed as REST APIs. This provides a standard REST API that plain-old microservices can through. KEYWORDS: Microservices Architecture, CArtAgO, Hypermedia Agents",
         "projectType": "Agent-oriented software engineering",
         "keyPhrases": [
             "Microservices Architecture",
