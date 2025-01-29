@@ -110,7 +110,7 @@ function filter(f) {
 
 }
 
-window.onload = async () => {
+window.addEventListener('load', async () => {
 	let title = document.title;
 	
 	if (title == "Frameworks") type = 0
@@ -228,4 +228,14 @@ window.onload = async () => {
 			t.innerHTML = `<h1 style="min-height: 80vh; margin-top: 20px">There are no ${title.toLowerCase()} yet</h1>`;
 		}
 	}
-}
+})
+
+window.addEventListener('load', () => {
+	table.onscroll = () => {
+		let x = document.getElementsByClassName("t-head")[0];
+		console.log(x.style)
+		let rec = document.getElementsByClassName("t-row")[0].getBoundingClientRect();
+		console.log(rec)
+		x.style.transform = `translateX(${rec.left}px)`
+	}
+})
