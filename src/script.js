@@ -233,9 +233,7 @@ window.addEventListener('load', async () => {
 window.addEventListener('load', () => {
 	table.onscroll = () => {
 		let x = document.getElementsByClassName("t-head")[0];
-		console.log(x.style)
 		let rec = document.getElementsByClassName("t-row")[0].getBoundingClientRect();
-		console.log(rec)
 		x.style.transform = `translateX(${rec.left}px)`
 	}
 })
