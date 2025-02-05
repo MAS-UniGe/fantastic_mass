@@ -35,6 +35,7 @@ body {
 	background-color: var(--bkg-color);
 	/* color: white; */
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	overflow-x: hidden;
 }
 
 ::-webkit-scrollbar{
@@ -143,6 +144,7 @@ nav > div {
 	border-top: 2px solid var(--bkg-color);
 	justify-content: center;
 	backdrop-filter: blur(10px);
+	z-index: 3;
 }
 
 #search {
@@ -150,7 +152,6 @@ nav > div {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	
 }
 
 #search-field {
@@ -214,18 +215,16 @@ main h1::before {
 	color: var(--light4-color)
 }
 
-.boxes {
+#boxes {
 	display: flex;
 	flex-direction: column;
 	transition: all 0.5s ease;
-	border: 1px solid yellow;
+	padding: 20px;
 }
 
 .box {
 	margin-top: 10px;
 	display: flex;
-	justify-content: center;
-	/* width: 100%; */
 	transition: all 0.5s ease;
 }
 
@@ -244,11 +243,11 @@ aside {
 	color: var(--bkg-color);
 	padding: 30px;
 	position: relative;
-	box-shadow: 0 0 10px 2px var(--light4-color);
+	box-shadow: 0 0 5px 1px var(--light4-color);
 	width: 40%;
 	background: linear-gradient(to bottom, var(--light3-color), var(--light4-color));
 	margin: 20px;
-	border-radius: 3px;
+	border-radius: 2px;
 	z-index: 1;
 }
 
@@ -297,7 +296,8 @@ footer div {
 	color: var(--bkg-color);
 	display: flex;
 	justify-content: center;
-	/* align-items: center; */
+	position: absolute;
+	left: 0
 }
 
 .t-attribute-name {
@@ -309,6 +309,14 @@ footer div {
 .t-row {
 	display: flex;
 	border-bottom: 1px solid var(--main-color);
+}
+
+.t-row:nth-child(odd) {
+	background-color: var(--dark3-color);
+}
+
+#t-row-0 {
+	margin-top: 59px;
 }
 
 .t-value {
