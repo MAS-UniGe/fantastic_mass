@@ -1152,7 +1152,7 @@
       {
         "frameworkMasExtension": 1,
         "projectName": "MA-STONKSpp",
-        "description": "The project is about integrating Multi-Agent Systems (MAS) concepts into an energy prosumer simulation tool to model decentralized peer-to-peer (P2P) electricity trading. The objective is to transition an existing energy prosumer network simulator towards a Belief-Desire-Intention (BDI) multi-agent architecture. KEYWORDS: P2P electricity trading; BDI-based prosumer model",
+        "description": "Integration of MAS concepts into an energy prosumer simulation tool to model decentralized peer-to-peer (P2P) electricity trading. KEYWORDS: P2P electricity trading; BDI-based prosumer model",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "BDI-based prosumer model",
@@ -1181,7 +1181,7 @@
    {
         "frameworkMasExtension": 1,
         "projectName": "SmartFarmJADE",
-        "description": "The MAS simulates how autonomous agents may handle the crops of a farm. It involves drones, tractors and robots operating in a bidimensional grid made out of tiles. KEYWORDS: smart farming; simulation; drones; tractors; robots",
+        "description": "The MAS simulates how autonomous agents may handle the crops of a farm. KEYWORDS: smart farming; simulation; drones; tractors; robots; bidimensional grid",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "smart farming",
@@ -1240,7 +1240,7 @@
     {
         "frameworkMasExtension": 1,
         "projectName": "Hegemony set-up",
-        "description": "This MAS simulates the set-up process of a strategic tabletop game (Hegemony). The game has four players representing four social classes: in this implementation, each player is an agent that perform own specific set-up, sharing only relevant information with other agents in the system. At the end of the set-up, each agent runs a LLM that has in input some pieces of information according to the agent's knowledge base. KEYWORDS: Hegemony; LLM integration",
+        "description": "This MAS simulates the set-up process of a strategic tabletop game (Hegemony). KEYWORDS: Hegemony; LLM integration",
         "projectType": "Agent-based simulation",
         "keyPhrases": [
             "dungeon",
