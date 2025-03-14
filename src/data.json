@@ -1266,5 +1266,34 @@
         "masPrimaryPaper": "The MAS is described by a report in the repo. The MAS addresses through simulation the practical problem of playtesting a tabletop game, a procedure that due to its nature typically requires a lot of human matches in order to find weak points in the strategic structure of the game. Each of the four agents is different in role and interact with the others in order to complete the set-up. I focused on the set-up being this project intended for a university exam, but further development can lead to a completely autonomous game environment that can provide game designers a very fast way to deal with the game balancing before publishing their product, achieving higher quality and letting them focus on more intriguing aspects of their job.",
         "masSecondaryPaper": "None",
         "comments": ""
+    },
+       {
+        "frameworkMasExtension": 2,
+        "projectName": "SafeRLJ",
+        "description": "SafeRLJ extends Jason with support to the standard SARSA Reinforcement Learning algorithm extended with basic safety mechanisms. KEYWORDS: SARSA; neuro-symbolic integration; safe RL; complex case study; Among Us",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "Complex case study",
+            "",
+            "",
+            ""
+        ],
+        "extensionURL": "https://github.com/MAS-UniGe/TogetherIsBetter/",
+        "extensionCommunityAvailability": "Yes, the source code is available",
+        "extensionPreviousVersionsAvailability": "No",
+        "extensionPreviousVersionsURL": "",
+        "extensionLicense": "",
+        "extensionListOfBugs": "No",
+        "extensionOfFramework": "Jason, latest version",
+        "extensionLinkToExtendedFramework": "https://jason-lang.github.io/",
+        "extensionRealApplication": "",
+        "extensionDocumentation": "Paper; Videos",
+        "extensionTechnicalAssistance": "viviana.mascardi@unige.it",
+        "extensionDependecies": "Jason",
+        "extensionTesting": "",
+        "extensionTestingResources": "",
+        "extensionSoftwareEngineeringApproach": "",
+        "extensionPrimaryPaper": "https://github.com/MAS-UniGe/TogetherIsBetter/blob/main/TogetherIsBetterWithCode.pdf",
+        "extensionSecondaryPaper": "": ""
     }
 ]
