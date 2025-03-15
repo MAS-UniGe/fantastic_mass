@@ -1295,5 +1295,34 @@
         "extensionSoftwareEngineeringApproach": "",
         "extensionPrimaryPaper": "https://github.com/MAS-UniGe/TogetherIsBetter/blob/main/TogetherIsBetterWithCode.pdf",
         "extensionSecondaryPaper": ""
-    }
+    },
+    {
+        "frameworkMasExtension": 0,
+        "projectName": "Yggdrasil",
+        "description": "Yggdrasil is a framework for programming hypermedia environments for multi-agent systems. KEYWORDS: Agent-oriented Software Engineering; Hypermedia Multi-Agent Systems; Knowledge Graphs; Linked Data",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "frameworkURL": "https://github.com/interactions-HSG/yggdrasil",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
+        "frameworkPreviousVersionsAvailability": "Yes, available in the same repo of the current version",
+        "frameworkPreviousVersionsURL": "",
+        "frameworkLicense": "Apache-2.0",
+        "frameworkListOfBugs": "No",
+        "frameworkRealApplication": "Prototypes were developed in collaboration with partners in two research projects: HyperAgents (https://project.hyperagents.org/) and IntellIoT (https://intelliot.eu/)",
+        "frameworkDocumentation": "Demos, Basic project documentation in the public repository",
+        "frameworkTechnicalAssistance": "andrei.ciortea@unisg.ch",
+        "frameworkDependecies": "",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
+        "frameworkTestingResources": "",
+        "frameworkSoftwareEngineeringApproach": "",
+        "frameworkPrimaryPaper": "A paper describing the current version is yet to be published. An initial proof-of-concept was described in: https://doi.org/10.1007/978-3-030-25693-7_15",
+        "frameworkSecondaryPaper": "",
+        "frameworkMasBuiltUsingFramework":"",
+        "comments": ""
+     }
 ]
