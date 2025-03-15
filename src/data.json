@@ -1324,5 +1324,34 @@
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework":"",
         "comments": ""
+     },
+           {
+        "frameworkMasExtension": 0,
+        "projectName": "VEsNA",
+        "description": "VEsNA integrates Belief-Desire-Intention (BDI) agents, Natural Language interaction, and Virtual Reality. Support to Runtime Verification is also foreseen. It is rooted on JaCaMo but is something more than just an extension of JaCaMo. It comes with a plethora of add-ons related with all of the aspects above (cognition, chatbot/natural language, VR & video games, runtime verification) that make VEsNA an agent toolkit on its own. KEYWORDS: BDI; Virtual Reality; Natural Language interaction",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "frameworkURL": "https://github.com/VEsNA-ToolKit",
+        "frameworkCommunityAvailability": "Yes, the source code is available",
+        "frameworkPreviousVersionsAvailability": "No",
+        "frameworkPreviousVersionsURL": "",
+        "frameworkLicense": "GPL",
+        "frameworkListOfBugs": "No",
+        "frameworkRealApplication": "Not yet",
+        "frameworkDocumentation": "Demos, videos, papers, basic project documentation in the public repository",
+        "frameworkTechnicalAssistance": "viviana.mascardi@unige.it",
+        "frameworkDependecies": "VEsNA-light, the framework integrating JaCaMo and Virtual Reality, requires Java 23; Gradle; Godot 4; ChatBDI - presented in this repository as a JaCaMo extension on its own - does not require Godot; KQML-S - presented as a JaCaMo extension on its own - requires Godot  only to run the demos",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
+        "frameworkTestingResources": "",
+        "frameworkSoftwareEngineeringApproach": "",
+        "frameworkPrimaryPaper": "VEsNA-light: https://www.mdpi.com/2218-6581/12/2/46, Andrea Gatti, Viviana Mascardi. VEsNA, a Framework for Virtual Environments via Natural Language Agents and Its Application to Factory Automation. Robotics 2023, 12, 46. https://doi.org/10.3390/robotics12020046; ChatBDI: Andrea Gatti, Viviana Mascardi, Angelo Ferrando. ChatBDI: Think BDI, Talk LLM. AAMAS 2025",
+        "frameworkSecondaryPaper": "To appear soon",
+        "frameworkMasBuiltUsingFramework":"",
+        "comments": ""
      }
 ]
