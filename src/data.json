@@ -1376,7 +1376,7 @@
         "extensionRealApplication": "No",
         "extensionDocumentation": "No",
         "extensionTechnicalAssistance": "andrea.gatti@edu.unige.it",
-        "extensionDependecies": "Java 23; Gradle (tested with version 8.13)",
+        "extensionDependecies": "Java 23; Gradle (tested with version 8.13); Ollama",
         "extensionTesting": "Yes, some tests were performed but no testing resources exist",
         "extensionTestingResources": "",
         "extensionSoftwareEngineeringApproach": "",
