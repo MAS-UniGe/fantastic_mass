@@ -1351,7 +1351,7 @@
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "VEsNA-light: https://www.mdpi.com/2218-6581/12/2/46, Andrea Gatti, Viviana Mascardi. VEsNA, a Framework for Virtual Environments via Natural Language Agents and Its Application to Factory Automation. Robotics 2023, 12, 46; ChatBDI: Andrea Gatti, Viviana Mascardi, Angelo Ferrando. ChatBDI: Think BDI, Talk LLM. AAMAS 2025",
         "frameworkSecondaryPaper": "To appear soon",
-        "frameworkMasBuiltUsingFramework":"",
+        "frameworkMasBuiltUsingFramework":"None",
         "comments": ""
      },
           {
