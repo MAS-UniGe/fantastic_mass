@@ -1349,9 +1349,39 @@
         "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
         "frameworkTestingResources": "",
         "frameworkSoftwareEngineeringApproach": "",
-        "frameworkPrimaryPaper": "VEsNA-light: https://www.mdpi.com/2218-6581/12/2/46, Andrea Gatti, Viviana Mascardi. VEsNA, a Framework for Virtual Environments via Natural Language Agents and Its Application to Factory Automation. Robotics 2023, 12, 46. https://doi.org/10.3390/robotics12020046; ChatBDI: Andrea Gatti, Viviana Mascardi, Angelo Ferrando. ChatBDI: Think BDI, Talk LLM. AAMAS 2025",
+        "frameworkPrimaryPaper": "VEsNA-light: https://www.mdpi.com/2218-6581/12/2/46, Andrea Gatti, Viviana Mascardi. VEsNA, a Framework for Virtual Environments via Natural Language Agents and Its Application to Factory Automation. Robotics 2023, 12, 46; ChatBDI: Andrea Gatti, Viviana Mascardi, Angelo Ferrando. ChatBDI: Think BDI, Talk LLM. AAMAS 2025",
         "frameworkSecondaryPaper": "To appear soon",
         "frameworkMasBuiltUsingFramework":"",
         "comments": ""
-     }
+     },
+          {
+        "frameworkMasExtension": 2,
+        "projectName": "ChatBDI: Think BDI, Talk LLM",
+        "description": "ChatBDI extends JaCaMo with the ability to seamlessly interact with a human in natural language, thanks to the exploitation of LLMs. KEYWORDS: think BDI; talk LLM; general purpose; JaCaMo",
+        "projectType": "Agent-oriented software engineering, verification",
+        "keyPhrases": [
+            "natural language",
+            "integration LLM BDI",
+            "",
+            ""
+        ],
+        "extensionURL": "https://github.com/VEsNA-ToolKit/chatbdi",
+        "extensionCommunityAvailability": "Yes, the source code is available",
+        "extensionPreviousVersionsAvailability": "No",
+        "extensionPreviousVersionsURL": "",
+        "extensionLicense": "GPL",
+        "extensionListOfBugs": "No",
+        "extensionOfFramework": "JaCaMo, latest version",
+        "extensionLinkToExtendedFramework": "https://jacamo-lang.github.io/",
+        "extensionRealApplication": "No",
+        "extensionDocumentation": "No",
+        "extensionTechnicalAssistance": "andrea.gatti@edu.unige.it",
+        "extensionDependecies": "Java 23; Gradle (tested with version 8.13)",
+        "extensionTesting": "Yes, some tests were performed but no testing resources exist",
+        "extensionTestingResources": "",
+        "extensionSoftwareEngineeringApproach": "",
+        "extensionPrimaryPaper": "Andrea Gatti, Viviana Mascardi, Angelo Ferrando. ChatBDI: Think BDI, Talk LLM. AAMAS 2025, to appear",
+        "extensionSecondaryPaper": "",
+        "comments": ""
+    }
 ]
