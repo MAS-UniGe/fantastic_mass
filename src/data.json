@@ -1436,7 +1436,7 @@
         "extensionRealApplication": "",
         "extensionDocumentation": "Tutorials; Manuals",
         "extensionTechnicalAssistance": "chon@grupo.cefet-rj.br",
-        "extensionDependecies": "Jason or JaCaMo",
+        "extensionDependecies": "",
         "extensionTesting": "Yes",
         "extensionTestingResources": "Yes, in the repo",
         "extensionSoftwareEngineeringApproach": "",
