@@ -1447,7 +1447,7 @@
       {
         "frameworkMasExtension": 0,
         "projectName": "Jason",
-        "description": "ason is an interpreter for an extended version of AgentSpeak. It implements the operational semantics of that language, and provides a platform for the development of multi-agent systems, with many user-customisable features. KEYWORDS: AgentSpeak(L) enhanced interpreter; BDI; Java; KQML",
+        "description": "Jason is an interpreter for an extended version of AgentSpeak. It implements the operational semantics of that language, and provides a platform for the development of multi-agent systems, with many user-customisable features. KEYWORDS: AgentSpeak(L) enhanced interpreter; BDI; Java; KQML",
         "projectType": "Agent-oriented software engineering, programming language",
         "keyPhrases": [
             "",
@@ -1472,5 +1472,5 @@
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework": "Many MAS have been built with Jason; see also https://mas-unige.github.io/fantastic_mass/mas.html",
         "comments": ""
-     },
+     }
 ]
