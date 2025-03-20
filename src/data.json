@@ -1174,7 +1174,7 @@
         "masTesting": "Yes, some tests were performed but no testing resources exist",
         "masTestingResources": "",
         "masSoftwareEngineeringApproach": "No",
-        "masPrimaryPaper": "The MAS is described in the report availble in the GitHub repo. The project is about integrating Multi-Agent Systems (MAS) concepts into an energy prosumer simulation tool to model decentralized peer-to-peer (P2P) electricity trading. OBJECTIVE: The project aims to transition an existing energy prosumer network simulator towards a Belief-Desire-Intention (BDI) multi-agent architecture. CURRENT STATE: The existing simulator (STONKSpp) models prosumer energy trading but lacks a strong multi-agent system (MAS) framework. ENHANCEMENTS PROPOSED: Implement a BDI-based prosumer model. Develop communication protocols among agents using a message-passing paradigm. Compare implementations using python-agentspeak and Jason. Attempt integration with the Mango MAS framework to improve interaction capabilities. TECHNOLOGY USED: Mosaik & OMNeT++ for co-simulation. Python-agentspeak and Jason for agent modeling. Cosima & Mango to simulate realistic decentralized MAS behaviors. CHALLENGES: Moving from centralized optimization to fully distributed decision-making. Handling dynamic neighbor discovery and adapting to network conditions. Ensuring scalability and real-world applicability.",
+        "masPrimaryPaper": "See https://github.com/MAS-UniGe/MA-STONKSpp/blob/main/short-description.txt",
         "masSecondaryPaper": "None",
         "comments": ""
     },
@@ -1203,8 +1203,8 @@
         "masTesting": "Yes, some tests were performed but no testing resources exist",
         "masTestingResources": "",
         "masSoftwareEngineeringApproach": "No",
-        "masPrimaryPaper": "The MAS is described by a report in the docs folder of the project. It simulates an agricultural environment where autonomous agents handle the crops. The agents are drones, robots and self-driving tractors, and each of them covers a different role in maintaining the crops well being and maximizing the land yield. The amount of agent instances and the map size are configurable.",
-        "masSecondaryPaper": "None",
+        "masPrimaryPaper": "See https://github.com/MAS-UniGe/SmartFarmJADE/blob/main/short-description.txt",
+         "masSecondaryPaper": "None",
         "comments": ""
     },
     {
@@ -1233,7 +1233,7 @@
         "masTesting": "No",
         "masTestingResources": "",
         "masSoftwareEngineeringApproach": "No",
-        "masPrimaryPaper": "The MAS is described by a report in the docs folder of the project. The project involves a Multi-Agent System (MAS) within a dungeon crawler application. The problem it addresses is providing an engaging, dynamic dungeon experience where the user must strategically defeat enemies and navigate through rooms while receiving assistance from a chatbot. The user must conquer each room, defeating all enemies to progress to the next one. The rooms contain power-ups that enhance health, defense, or attack power. The final room features a boss, which is significantly stronger than standard enemies and possesses a unique special attack. The chatbot, integrated via Rasa, should provide guidance but it's just demonstrative as of now.   The agents within the system consist of the standard enemies and a boss. The player has fixed attributes for health, attack power, and defense, and can execute both melee and ranged attacks. The enemy agents share similar attributes but act automatically. There are four instances of standard enemies, and one instance of a boss. The enemies have predefined communication patterns to facilitate cooperation, such as alerting others when the player is spotted or requesting reinforcements when they need help. Additionally, when an enemy’s health drops below a certain threshold, it may attempt to retreat and seek a power-up, which introduces a tactical element to their behavior.   The integration of the chatbot adds another layer of interaction, allowing the user to receive real-time assistance and guidance.  This Multi-Agent System design emphasizes the dynamic interactions between agents and the chatbot’s support in creating a more engaging dungeon crawler experience.",
+        "masPrimaryPaper": "See https://github.com/MAS-UniGe/DungeonCrawler/blob/master/short-description.txt",
         "masSecondaryPaper": "None",
         "comments": ""
     }, 
@@ -1263,7 +1263,7 @@
         "masTesting": "Yes, some tests were performed but no testing resources exist",
         "masTestingResources": "",
         "masSoftwareEngineeringApproach": "No",
-        "masPrimaryPaper": "The MAS is described by a report in the repo. The MAS addresses through simulation the practical problem of playtesting a tabletop game, a procedure that due to its nature typically requires a lot of human matches in order to find weak points in the strategic structure of the game. Each of the four agents is different in role and interact with the others in order to complete the set-up. I focused on the set-up being this project intended for a university exam, but further development can lead to a completely autonomous game environment that can provide game designers a very fast way to deal with the game balancing before publishing their product, achieving higher quality and letting them focus on more intriguing aspects of their job.",
+        "masPrimaryPaper": "See https://github.com/MAS-UniGe/Hegemony/blob/main/short-description.txt",
         "masSecondaryPaper": "None",
         "comments": ""
     },
