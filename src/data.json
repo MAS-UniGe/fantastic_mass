@@ -1447,13 +1447,13 @@
       {
         "frameworkMasExtension": 0,
         "projectName": "Jason",
-        "description": "",
-        "projectType": "Agent-oriented software engineering, programming language. KEYWORDS: AgentSpeak(L) enhanced interpreter; BDI; Java; KQML",
+        "description": "ason is an interpreter for an extended version of AgentSpeak. It implements the operational semantics of that language, and provides a platform for the development of multi-agent systems, with many user-customisable features. KEYWORDS: AgentSpeak(L) enhanced interpreter; BDI; Java; KQML",
+        "projectType": "Agent-oriented software engineering, programming language",
         "keyPhrases": [
-            "A programming language for agents and multi-agent systems based on JADE",
-            "Imperative, event-driven, agent-oriented programming",
-            "Mainstream-oriented language and tools for agents and multi-agent systems",
-            ""
+            "",
+            "",
+            "",
+            ""  
         ],
         "frameworkURL": "https://jason-lang.github.io/",
         "frameworkCommunityAvailability": "Yes, the source code is available",
@@ -1465,12 +1465,12 @@
         "frameworkDocumentation": "Manuals; Demos; Examples; Book; Papers",
         "frameworkTechnicalAssistance": "The support is provided via Github",
         "frameworkDependecies": "",
-        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed and the testing resources (test cases, etc) are available in the public repository;",        
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed;",        
         "frameworkTestingResources": "",
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "The Jason Book: https://jason.sourceforge.net/jBook/jBook/Home.html",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework":"Many MAS have been built with Jason; see also https://mas-unige.github.io/fantastic_mass/mas.html",
+        "frameworkMasBuiltUsingFramework": "Many MAS have been built with Jason; see also https://mas-unige.github.io/fantastic_mass/mas.html",
         "comments": ""
      },
 ]
