@@ -1499,7 +1499,7 @@
         "frameworkSoftwareEngineeringApproach": "",
         "frameworkPrimaryPaper": "Engineering MAS: Integrating Distributed Systems and advances in Artificial Intelligence (PhD Thesis)",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework": ""
+        "frameworkMasBuiltUsingFramework": "",
         "comments": ""
      },
       {
@@ -1528,7 +1528,7 @@
         "frameworkSoftwareEngineeringApproach": "Organizational MAS modelling: the architecture is inspired from the Agent/Group/Role (AGR) methodology of Ferber et al.",
         "frameworkPrimaryPaper": "Under preparation",
         "frameworkSecondaryPaper": "",
-        "frameworkMasBuiltUsingFramework": "Available under the Model Library group in the shared Gitlab project"
+        "frameworkMasBuiltUsingFramework": "Available under the Model Library group in the shared Gitlab project",
         "comments": ""
      }
 ]
