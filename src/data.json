@@ -181,7 +181,7 @@
         "frameworkMasExtension": 0,
         "projectName": "Python Intelligent Agent Framework (Piaf)",
         "description": "Fully written in modern Python, FIPA-compliant, extensible and light-weight; uses asynchronous programming behind the woods to power agents",
-        "projectType": "Agent-based simulation",
+        "projectType": "Agent-oriented software engineering, framework",
         "keyPhrases": [
             "Uses asynchronous programming behind the woods to power agents",
             "Fully FIPA-compliant framework, extensible and light-weight",
