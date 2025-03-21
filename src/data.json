@@ -1525,7 +1525,7 @@
         "frameworkDependecies": "Git, JDK 21 or later, Maven",
         "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed;",        
         "frameworkTestingResources": "",
-        "frameworkSoftwareEngineeringApproach": "Organizational MAS modelling: the architecture is inspired from the Agent/Group/Role (AGR) methodology of Ferber et al.",
+        "frameworkSoftwareEngineeringApproach": "Organizational MAS modelling: the architecture is inspired from the Agent/Group/Role (AGR) methodology of Ferber et al., https://www.scs-europe.net/conf/abs2003/ABS2003%20CD/PDF/CONC-3.pdf",
         "frameworkPrimaryPaper": "Under preparation",
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework": "Available under the Model Library group in the shared Gitlab project",
