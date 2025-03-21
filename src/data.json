@@ -201,7 +201,7 @@
         "frameworkTesting": "Yes",
         "frameworkTestingResources": "",
         "frameworkSoftwareEngineeringApproach": "TDD, except for the ongoing Web API (but tests will come soon)",
-        "frameworkPrimaryPaper": "No paper because I'm not a scientist ;)",
+        "frameworkPrimaryPaper": "",
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework": "No",
         "comments": ""
