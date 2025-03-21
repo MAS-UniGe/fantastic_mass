@@ -1472,5 +1472,63 @@
         "frameworkSecondaryPaper": "",
         "frameworkMasBuiltUsingFramework": "Many MAS have been built with Jason; see also https://mas-unige.github.io/fantastic_mass/mas.html",
         "comments": ""
+     },
+      {
+        "frameworkMasExtension": 0,
+        "projectName": "Hecate",
+        "description": "Hecate is a MAS framework developed using the ECS (Entity-Component-System) architectural pattern to show how a minimum set of knowledge from the Agents research area can be brought into the Distributed Systems (DS) domain and speed the MAS learning curve by (i) minimizing the agent-specific knowledge required and (ii) reusing patterns and standards for DS. KEYWORDS: Distributed Systems, Entity-Component Systems",
+        "projectType": "Agent-oriented software engineering",
+        "keyPhrases": [
+            "",
+            "",
+            "",
+            ""  
+        ],
+        "frameworkURL": "Will be made available in a few days",
+        "frameworkCommunityAvailability": "Not yet",
+        "frameworkPreviousVersionsAvailability": "No",
+        "frameworkPreviousVersionsURL": "No",
+        "frameworkLicense": "CC",
+        "frameworkListOfBugs": "No",
+        "frameworkRealApplication": "The framework is currently being used at USP (Universidade de São Paulo), Brazil",
+        "frameworkDocumentation": "In class teaching",
+        "frameworkTechnicalAssistance": "No",
+        "frameworkDependecies": "",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed;",        
+        "frameworkTestingResources": "",
+        "frameworkSoftwareEngineeringApproach": "",
+        "frameworkPrimaryPaper": "Engineering MAS: Integrating Distributed Systems and advances in Artificial Intelligence (PhD Thesis)",
+        "frameworkSecondaryPaper": "",
+        "frameworkMasBuiltUsingFramework": ""
+        "comments": ""
+     },
+      {
+        "frameworkMasExtension": 0,
+        "projectName": "SCOP",
+        "description": "The SCOP Framework allows for building and experimenting intelligent multi-agent systems in Java. KEYWORDS: LLM-enabled ABMS, Organizational MAS Modelling",       
+        "projectType": "Agent-based simulation",
+        "keyPhrases": [
+            "",
+            "",
+            "",
+            ""  
+        ],
+        "frameworkURL": "https://gitlab.com/scop-framework",
+        "frameworkCommunityAvailability": "Partially: some packages are released under Proprietary Licence",
+        "frameworkPreviousVersionsAvailability": "Yes, available in the same repo of the current version",
+        "frameworkPreviousVersionsURL": "",
+        "frameworkLicense": "Proprietary Licence and MIT Licence",
+        "frameworkListOfBugs": "Yes",
+        "frameworkRealApplication": "NORCE is using it for building social digital twins and agent-based simulations",
+        "frameworkDocumentation": "Manuals; tutorials",
+        "frameworkTechnicalAssistance": "onder.gurcan@gmail.com",
+        "frameworkDependecies": "Git, JDK 21 or later, Maven",
+        "frameworkTesting": "Yes, a systematic testing following some recognized testing methodology/approach was performed;",        
+        "frameworkTestingResources": "",
+        "frameworkSoftwareEngineeringApproach": "Organizational MAS modelling: the architecture is inspired from the Agent/Group/Role (AGR) methodology of Ferber et al.",
+        "frameworkPrimaryPaper": "Under preparation",
+        "frameworkSecondaryPaper": "",
+        "frameworkMasBuiltUsingFramework": "Available under the Model Library group in the shared Gitlab project"
+        "comments": ""
      }
 ]
