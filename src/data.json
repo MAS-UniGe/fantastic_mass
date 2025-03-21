@@ -1519,7 +1519,7 @@
         "frameworkPreviousVersionsURL": "",
         "frameworkLicense": "Proprietary Licence and MIT Licence",
         "frameworkListOfBugs": "Yes",
-        "frameworkRealApplication": "NORCE is using it for building social digital twins and agent-based simulations",
+        "frameworkRealApplication": "NORCE (https://www.norceresearch.no/) is using it for building social digital twins and agent-based simulations",
         "frameworkDocumentation": "Manuals; tutorials",
         "frameworkTechnicalAssistance": "onder.gurcan@gmail.com",
         "frameworkDependecies": "Git, JDK 21 or later, Maven",
